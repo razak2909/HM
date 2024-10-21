@@ -1,0 +1,804 @@
+D:\WIZLITE\Project Folder\pcbapi\WebApplication1\bin\WebApplication1.dll.config
+D:\WIZLITE\Project Folder\pcbapi\WebApplication1\bin\WebApplication1.dll
+D:\WIZLITE\Project Folder\pcbapi\WebApplication1\bin\WebApplication1.pdb
+D:\WIZLITE\Project Folder\pcbapi\WebApplication1\bin\roslyn\csc.exe.config
+D:\WIZLITE\Project Folder\pcbapi\WebApplication1\bin\roslyn\csc.rsp
+D:\WIZLITE\Project Folder\pcbapi\WebApplication1\bin\roslyn\csi.exe.config
+D:\WIZLITE\Project Folder\pcbapi\WebApplication1\bin\roslyn\csi.rsp
+D:\WIZLITE\Project Folder\pcbapi\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\WIZLITE\Project Folder\pcbapi\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\WIZLITE\Project Folder\pcbapi\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\WIZLITE\Project Folder\pcbapi\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\WIZLITE\Project Folder\pcbapi\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\WIZLITE\Project Folder\pcbapi\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\WIZLITE\Project Folder\pcbapi\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\WIZLITE\Project Folder\pcbapi\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\WIZLITE\Project Folder\pcbapi\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\WIZLITE\Project Folder\pcbapi\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+D:\WIZLITE\Project Folder\pcbapi\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\WIZLITE\Project Folder\pcbapi\WebApplication1\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\WIZLITE\Project Folder\pcbapi\WebApplication1\bin\roslyn\System.AppContext.dll
+D:\WIZLITE\Project Folder\pcbapi\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+D:\WIZLITE\Project Folder\pcbapi\WebApplication1\bin\roslyn\System.Console.dll
+D:\WIZLITE\Project Folder\pcbapi\WebApplication1\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\WIZLITE\Project Folder\pcbapi\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\WIZLITE\Project Folder\pcbapi\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\WIZLITE\Project Folder\pcbapi\WebApplication1\bin\roslyn\System.Globalization.Calendars.dll
+D:\WIZLITE\Project Folder\pcbapi\WebApplication1\bin\roslyn\System.IO.Compression.dll
+D:\WIZLITE\Project Folder\pcbapi\WebApplication1\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\WIZLITE\Project Folder\pcbapi\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+D:\WIZLITE\Project Folder\pcbapi\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\WIZLITE\Project Folder\pcbapi\WebApplication1\bin\roslyn\System.Net.Http.dll
+D:\WIZLITE\Project Folder\pcbapi\WebApplication1\bin\roslyn\System.Net.Sockets.dll
+D:\WIZLITE\Project Folder\pcbapi\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+D:\WIZLITE\Project Folder\pcbapi\WebApplication1\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\WIZLITE\Project Folder\pcbapi\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\WIZLITE\Project Folder\pcbapi\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\WIZLITE\Project Folder\pcbapi\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\WIZLITE\Project Folder\pcbapi\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\WIZLITE\Project Folder\pcbapi\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\WIZLITE\Project Folder\pcbapi\WebApplication1\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\WIZLITE\Project Folder\pcbapi\WebApplication1\bin\roslyn\System.ValueTuple.dll
+D:\WIZLITE\Project Folder\pcbapi\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\WIZLITE\Project Folder\pcbapi\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+D:\WIZLITE\Project Folder\pcbapi\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+D:\WIZLITE\Project Folder\pcbapi\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\WIZLITE\Project Folder\pcbapi\WebApplication1\bin\roslyn\vbc.exe.config
+D:\WIZLITE\Project Folder\pcbapi\WebApplication1\bin\roslyn\vbc.rsp
+D:\WIZLITE\Project Folder\pcbapi\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+D:\WIZLITE\Project Folder\pcbapi\WebApplication1\bin\Antlr3.Runtime.dll
+D:\WIZLITE\Project Folder\pcbapi\WebApplication1\bin\Dapper.dll
+D:\WIZLITE\Project Folder\pcbapi\WebApplication1\bin\Microsoft.AspNet.Identity.Core.dll
+D:\WIZLITE\Project Folder\pcbapi\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\WIZLITE\Project Folder\pcbapi\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\WIZLITE\Project Folder\pcbapi\WebApplication1\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\WIZLITE\Project Folder\pcbapi\WebApplication1\bin\Microsoft.IdentityModel.Logging.dll
+D:\WIZLITE\Project Folder\pcbapi\WebApplication1\bin\Microsoft.IdentityModel.Protocols.dll
+D:\WIZLITE\Project Folder\pcbapi\WebApplication1\bin\Microsoft.IdentityModel.Protocols.WsFederation.dll
+D:\WIZLITE\Project Folder\pcbapi\WebApplication1\bin\Microsoft.IdentityModel.Tokens.dll
+D:\WIZLITE\Project Folder\pcbapi\WebApplication1\bin\Microsoft.IdentityModel.Tokens.Saml.dll
+D:\WIZLITE\Project Folder\pcbapi\WebApplication1\bin\Microsoft.IdentityModel.Xml.dll
+D:\WIZLITE\Project Folder\pcbapi\WebApplication1\bin\Microsoft.Owin.dll
+D:\WIZLITE\Project Folder\pcbapi\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\WIZLITE\Project Folder\pcbapi\WebApplication1\bin\Microsoft.Owin.Security.ActiveDirectory.dll
+D:\WIZLITE\Project Folder\pcbapi\WebApplication1\bin\Microsoft.Owin.Security.Cookies.dll
+D:\WIZLITE\Project Folder\pcbapi\WebApplication1\bin\Microsoft.Owin.Security.dll
+D:\WIZLITE\Project Folder\pcbapi\WebApplication1\bin\Microsoft.Owin.Security.Jwt.dll
+D:\WIZLITE\Project Folder\pcbapi\WebApplication1\bin\Microsoft.Owin.Security.OAuth.dll
+D:\WIZLITE\Project Folder\pcbapi\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+D:\WIZLITE\Project Folder\pcbapi\WebApplication1\bin\Newtonsoft.Json.Bson.dll
+D:\WIZLITE\Project Folder\pcbapi\WebApplication1\bin\Newtonsoft.Json.dll
+D:\WIZLITE\Project Folder\pcbapi\WebApplication1\bin\Owin.dll
+D:\WIZLITE\Project Folder\pcbapi\WebApplication1\bin\System.Buffers.dll
+D:\WIZLITE\Project Folder\pcbapi\WebApplication1\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\WIZLITE\Project Folder\pcbapi\WebApplication1\bin\System.Memory.dll
+D:\WIZLITE\Project Folder\pcbapi\WebApplication1\bin\System.Net.Http.Formatting.dll
+D:\WIZLITE\Project Folder\pcbapi\WebApplication1\bin\System.Numerics.Vectors.dll
+D:\WIZLITE\Project Folder\pcbapi\WebApplication1\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\WIZLITE\Project Folder\pcbapi\WebApplication1\bin\System.Threading.Tasks.Extensions.dll
+D:\WIZLITE\Project Folder\pcbapi\WebApplication1\bin\System.Web.Cors.dll
+D:\WIZLITE\Project Folder\pcbapi\WebApplication1\bin\System.Web.Helpers.dll
+D:\WIZLITE\Project Folder\pcbapi\WebApplication1\bin\System.Web.Http.Cors.dll
+D:\WIZLITE\Project Folder\pcbapi\WebApplication1\bin\System.Web.Http.dll
+D:\WIZLITE\Project Folder\pcbapi\WebApplication1\bin\System.Web.Http.WebHost.dll
+D:\WIZLITE\Project Folder\pcbapi\WebApplication1\bin\System.Web.Mvc.dll
+D:\WIZLITE\Project Folder\pcbapi\WebApplication1\bin\System.Web.Optimization.dll
+D:\WIZLITE\Project Folder\pcbapi\WebApplication1\bin\System.Web.Razor.dll
+D:\WIZLITE\Project Folder\pcbapi\WebApplication1\bin\System.Web.WebPages.Deployment.dll
+D:\WIZLITE\Project Folder\pcbapi\WebApplication1\bin\System.Web.WebPages.dll
+D:\WIZLITE\Project Folder\pcbapi\WebApplication1\bin\System.Web.WebPages.Razor.dll
+D:\WIZLITE\Project Folder\pcbapi\WebApplication1\bin\WebGrease.dll
+D:\WIZLITE\Project Folder\pcbapi\WebApplication1\bin\Dapper.xml
+D:\WIZLITE\Project Folder\pcbapi\WebApplication1\bin\Microsoft.AspNet.Identity.Core.xml
+D:\WIZLITE\Project Folder\pcbapi\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\WIZLITE\Project Folder\pcbapi\WebApplication1\bin\Microsoft.Owin.Security.Cookies.xml
+D:\WIZLITE\Project Folder\pcbapi\WebApplication1\bin\Newtonsoft.Json.xml
+D:\WIZLITE\Project Folder\pcbapi\WebApplication1\bin\Newtonsoft.Json.Bson.pdb
+D:\WIZLITE\Project Folder\pcbapi\WebApplication1\bin\Newtonsoft.Json.Bson.xml
+D:\WIZLITE\Project Folder\pcbapi\WebApplication1\bin\System.Buffers.xml
+D:\WIZLITE\Project Folder\pcbapi\WebApplication1\bin\System.Memory.xml
+D:\WIZLITE\Project Folder\pcbapi\WebApplication1\bin\System.Net.Http.Formatting.xml
+D:\WIZLITE\Project Folder\pcbapi\WebApplication1\bin\System.Numerics.Vectors.xml
+D:\WIZLITE\Project Folder\pcbapi\WebApplication1\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\WIZLITE\Project Folder\pcbapi\WebApplication1\bin\System.Threading.Tasks.Extensions.xml
+D:\WIZLITE\Project Folder\pcbapi\WebApplication1\bin\System.Web.Helpers.xml
+D:\WIZLITE\Project Folder\pcbapi\WebApplication1\bin\System.Web.Http.xml
+D:\WIZLITE\Project Folder\pcbapi\WebApplication1\bin\System.Web.Http.Cors.xml
+D:\WIZLITE\Project Folder\pcbapi\WebApplication1\bin\System.Web.Http.WebHost.xml
+D:\WIZLITE\Project Folder\pcbapi\WebApplication1\bin\System.Web.Mvc.xml
+D:\WIZLITE\Project Folder\pcbapi\WebApplication1\bin\System.Web.Razor.xml
+D:\WIZLITE\Project Folder\pcbapi\WebApplication1\bin\System.Web.WebPages.xml
+D:\WIZLITE\Project Folder\pcbapi\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+D:\WIZLITE\Project Folder\pcbapi\WebApplication1\bin\System.Web.WebPages.Razor.xml
+D:\WIZLITE\Project Folder\pcbapi\WebApplication1\bin\System.Web.Optimization.xml
+D:\WIZLITE\Project Folder\pcbapi\WebApplication1\bin\Antlr3.Runtime.pdb
+D:\WIZLITE\Project Folder\pcbapi\WebApplication1\bin\Microsoft.Owin.xml
+D:\WIZLITE\Project Folder\pcbapi\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\WIZLITE\Project Folder\pcbapi\WebApplication1\bin\Microsoft.IdentityModel.Logging.xml
+D:\WIZLITE\Project Folder\pcbapi\WebApplication1\bin\Microsoft.IdentityModel.Tokens.xml
+D:\WIZLITE\Project Folder\pcbapi\WebApplication1\bin\Microsoft.Owin.Security.xml
+D:\WIZLITE\Project Folder\pcbapi\WebApplication1\bin\Microsoft.Owin.Security.OAuth.xml
+D:\WIZLITE\Project Folder\pcbapi\WebApplication1\bin\Microsoft.Owin.Security.Jwt.xml
+D:\WIZLITE\Project Folder\pcbapi\WebApplication1\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\WIZLITE\Project Folder\pcbapi\WebApplication1\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\WIZLITE\Project Folder\pcbapi\WebApplication1\bin\Microsoft.IdentityModel.Xml.xml
+D:\WIZLITE\Project Folder\pcbapi\WebApplication1\bin\Microsoft.IdentityModel.Tokens.Saml.xml
+D:\WIZLITE\Project Folder\pcbapi\WebApplication1\bin\Microsoft.IdentityModel.Protocols.xml
+D:\WIZLITE\Project Folder\pcbapi\WebApplication1\bin\Microsoft.IdentityModel.Protocols.WsFederation.xml
+D:\WIZLITE\Project Folder\pcbapi\WebApplication1\bin\Microsoft.Owin.Security.ActiveDirectory.xml
+D:\WIZLITE\Project Folder\pcbapi\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\WIZLITE\Project Folder\pcbapi\WebApplication1\obj\Debug\WebApplication1.csproj.AssemblyReference.cache
+D:\WIZLITE\Project Folder\pcbapi\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+D:\WIZLITE\Project Folder\pcbapi\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+D:\WIZLITE\Project Folder\pcbapi\WebApplication1\obj\Debug\WebApplication1.dll
+D:\WIZLITE\Project Folder\pcbapi\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\krish\OneDrive\Desktop\pcbapi\WebApplication1\obj\Debug\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\krish\OneDrive\Desktop\pcbapi\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\krish\OneDrive\Desktop\pcbapi\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\krish\OneDrive\Desktop\pcbapi\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\krish\OneDrive\Desktop\pcbapi\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\krish\OneDrive\Desktop\pcbapi\WebApplication1\bin\WebApplication1.dll
+C:\Users\krish\OneDrive\Desktop\pcbapi\WebApplication1\bin\WebApplication1.pdb
+C:\Users\krish\OneDrive\Desktop\pcbapi\WebApplication1\bin\roslyn\csc.exe.config
+C:\Users\krish\OneDrive\Desktop\pcbapi\WebApplication1\bin\roslyn\csc.rsp
+C:\Users\krish\OneDrive\Desktop\pcbapi\WebApplication1\bin\roslyn\csi.exe.config
+C:\Users\krish\OneDrive\Desktop\pcbapi\WebApplication1\bin\roslyn\csi.rsp
+C:\Users\krish\OneDrive\Desktop\pcbapi\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\krish\OneDrive\Desktop\pcbapi\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\krish\OneDrive\Desktop\pcbapi\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\krish\OneDrive\Desktop\pcbapi\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\krish\OneDrive\Desktop\pcbapi\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\krish\OneDrive\Desktop\pcbapi\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\krish\OneDrive\Desktop\pcbapi\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\krish\OneDrive\Desktop\pcbapi\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\krish\OneDrive\Desktop\pcbapi\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\krish\OneDrive\Desktop\pcbapi\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\krish\OneDrive\Desktop\pcbapi\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\krish\OneDrive\Desktop\pcbapi\WebApplication1\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\krish\OneDrive\Desktop\pcbapi\WebApplication1\bin\roslyn\System.AppContext.dll
+C:\Users\krish\OneDrive\Desktop\pcbapi\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\krish\OneDrive\Desktop\pcbapi\WebApplication1\bin\roslyn\System.Console.dll
+C:\Users\krish\OneDrive\Desktop\pcbapi\WebApplication1\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\krish\OneDrive\Desktop\pcbapi\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\krish\OneDrive\Desktop\pcbapi\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\krish\OneDrive\Desktop\pcbapi\WebApplication1\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\krish\OneDrive\Desktop\pcbapi\WebApplication1\bin\roslyn\System.IO.Compression.dll
+C:\Users\krish\OneDrive\Desktop\pcbapi\WebApplication1\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\krish\OneDrive\Desktop\pcbapi\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\krish\OneDrive\Desktop\pcbapi\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\krish\OneDrive\Desktop\pcbapi\WebApplication1\bin\roslyn\System.Net.Http.dll
+C:\Users\krish\OneDrive\Desktop\pcbapi\WebApplication1\bin\roslyn\System.Net.Sockets.dll
+C:\Users\krish\OneDrive\Desktop\pcbapi\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\krish\OneDrive\Desktop\pcbapi\WebApplication1\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\krish\OneDrive\Desktop\pcbapi\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\krish\OneDrive\Desktop\pcbapi\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\krish\OneDrive\Desktop\pcbapi\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\krish\OneDrive\Desktop\pcbapi\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\krish\OneDrive\Desktop\pcbapi\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\krish\OneDrive\Desktop\pcbapi\WebApplication1\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\krish\OneDrive\Desktop\pcbapi\WebApplication1\bin\roslyn\System.ValueTuple.dll
+C:\Users\krish\OneDrive\Desktop\pcbapi\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\krish\OneDrive\Desktop\pcbapi\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\krish\OneDrive\Desktop\pcbapi\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+C:\Users\krish\OneDrive\Desktop\pcbapi\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\krish\OneDrive\Desktop\pcbapi\WebApplication1\bin\roslyn\vbc.exe.config
+C:\Users\krish\OneDrive\Desktop\pcbapi\WebApplication1\bin\roslyn\vbc.rsp
+C:\Users\krish\OneDrive\Desktop\pcbapi\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\krish\OneDrive\Desktop\pcbapi\WebApplication1\bin\Antlr3.Runtime.dll
+C:\Users\krish\OneDrive\Desktop\pcbapi\WebApplication1\bin\Dapper.dll
+C:\Users\krish\OneDrive\Desktop\pcbapi\WebApplication1\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\krish\OneDrive\Desktop\pcbapi\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\krish\OneDrive\Desktop\pcbapi\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\krish\OneDrive\Desktop\pcbapi\WebApplication1\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\krish\OneDrive\Desktop\pcbapi\WebApplication1\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\krish\OneDrive\Desktop\pcbapi\WebApplication1\bin\Microsoft.IdentityModel.Protocols.dll
+C:\Users\krish\OneDrive\Desktop\pcbapi\WebApplication1\bin\Microsoft.IdentityModel.Protocols.WsFederation.dll
+C:\Users\krish\OneDrive\Desktop\pcbapi\WebApplication1\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\krish\OneDrive\Desktop\pcbapi\WebApplication1\bin\Microsoft.IdentityModel.Tokens.Saml.dll
+C:\Users\krish\OneDrive\Desktop\pcbapi\WebApplication1\bin\Microsoft.IdentityModel.Xml.dll
+C:\Users\krish\OneDrive\Desktop\pcbapi\WebApplication1\bin\Microsoft.Owin.dll
+C:\Users\krish\OneDrive\Desktop\pcbapi\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\krish\OneDrive\Desktop\pcbapi\WebApplication1\bin\Microsoft.Owin.Security.ActiveDirectory.dll
+C:\Users\krish\OneDrive\Desktop\pcbapi\WebApplication1\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\krish\OneDrive\Desktop\pcbapi\WebApplication1\bin\Microsoft.Owin.Security.dll
+C:\Users\krish\OneDrive\Desktop\pcbapi\WebApplication1\bin\Microsoft.Owin.Security.Jwt.dll
+C:\Users\krish\OneDrive\Desktop\pcbapi\WebApplication1\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\krish\OneDrive\Desktop\pcbapi\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\krish\OneDrive\Desktop\pcbapi\WebApplication1\bin\Newtonsoft.Json.Bson.dll
+C:\Users\krish\OneDrive\Desktop\pcbapi\WebApplication1\bin\Newtonsoft.Json.dll
+C:\Users\krish\OneDrive\Desktop\pcbapi\WebApplication1\bin\Owin.dll
+C:\Users\krish\OneDrive\Desktop\pcbapi\WebApplication1\bin\System.Buffers.dll
+C:\Users\krish\OneDrive\Desktop\pcbapi\WebApplication1\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\krish\OneDrive\Desktop\pcbapi\WebApplication1\bin\System.Memory.dll
+C:\Users\krish\OneDrive\Desktop\pcbapi\WebApplication1\bin\System.Net.Http.Formatting.dll
+C:\Users\krish\OneDrive\Desktop\pcbapi\WebApplication1\bin\System.Numerics.Vectors.dll
+C:\Users\krish\OneDrive\Desktop\pcbapi\WebApplication1\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\krish\OneDrive\Desktop\pcbapi\WebApplication1\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\krish\OneDrive\Desktop\pcbapi\WebApplication1\bin\System.Web.Cors.dll
+C:\Users\krish\OneDrive\Desktop\pcbapi\WebApplication1\bin\System.Web.Helpers.dll
+C:\Users\krish\OneDrive\Desktop\pcbapi\WebApplication1\bin\System.Web.Http.Cors.dll
+C:\Users\krish\OneDrive\Desktop\pcbapi\WebApplication1\bin\System.Web.Http.dll
+C:\Users\krish\OneDrive\Desktop\pcbapi\WebApplication1\bin\System.Web.Http.WebHost.dll
+C:\Users\krish\OneDrive\Desktop\pcbapi\WebApplication1\bin\System.Web.Mvc.dll
+C:\Users\krish\OneDrive\Desktop\pcbapi\WebApplication1\bin\System.Web.Optimization.dll
+C:\Users\krish\OneDrive\Desktop\pcbapi\WebApplication1\bin\System.Web.Razor.dll
+C:\Users\krish\OneDrive\Desktop\pcbapi\WebApplication1\bin\System.Web.WebPages.Deployment.dll
+C:\Users\krish\OneDrive\Desktop\pcbapi\WebApplication1\bin\System.Web.WebPages.dll
+C:\Users\krish\OneDrive\Desktop\pcbapi\WebApplication1\bin\System.Web.WebPages.Razor.dll
+C:\Users\krish\OneDrive\Desktop\pcbapi\WebApplication1\bin\WebGrease.dll
+C:\Users\krish\OneDrive\Desktop\pcbapi\WebApplication1\bin\Dapper.xml
+C:\Users\krish\OneDrive\Desktop\pcbapi\WebApplication1\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\krish\OneDrive\Desktop\pcbapi\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\krish\OneDrive\Desktop\pcbapi\WebApplication1\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\krish\OneDrive\Desktop\pcbapi\WebApplication1\bin\Newtonsoft.Json.xml
+C:\Users\krish\OneDrive\Desktop\pcbapi\WebApplication1\bin\Newtonsoft.Json.Bson.pdb
+C:\Users\krish\OneDrive\Desktop\pcbapi\WebApplication1\bin\Newtonsoft.Json.Bson.xml
+C:\Users\krish\OneDrive\Desktop\pcbapi\WebApplication1\bin\System.Buffers.xml
+C:\Users\krish\OneDrive\Desktop\pcbapi\WebApplication1\bin\System.Memory.xml
+C:\Users\krish\OneDrive\Desktop\pcbapi\WebApplication1\bin\System.Net.Http.Formatting.xml
+C:\Users\krish\OneDrive\Desktop\pcbapi\WebApplication1\bin\System.Numerics.Vectors.xml
+C:\Users\krish\OneDrive\Desktop\pcbapi\WebApplication1\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\krish\OneDrive\Desktop\pcbapi\WebApplication1\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\krish\OneDrive\Desktop\pcbapi\WebApplication1\bin\System.Web.Helpers.xml
+C:\Users\krish\OneDrive\Desktop\pcbapi\WebApplication1\bin\System.Web.Http.xml
+C:\Users\krish\OneDrive\Desktop\pcbapi\WebApplication1\bin\System.Web.Http.Cors.xml
+C:\Users\krish\OneDrive\Desktop\pcbapi\WebApplication1\bin\System.Web.Http.WebHost.xml
+C:\Users\krish\OneDrive\Desktop\pcbapi\WebApplication1\bin\System.Web.Mvc.xml
+C:\Users\krish\OneDrive\Desktop\pcbapi\WebApplication1\bin\System.Web.Razor.xml
+C:\Users\krish\OneDrive\Desktop\pcbapi\WebApplication1\bin\System.Web.WebPages.xml
+C:\Users\krish\OneDrive\Desktop\pcbapi\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+C:\Users\krish\OneDrive\Desktop\pcbapi\WebApplication1\bin\System.Web.WebPages.Razor.xml
+C:\Users\krish\OneDrive\Desktop\pcbapi\WebApplication1\bin\System.Web.Optimization.xml
+C:\Users\krish\OneDrive\Desktop\pcbapi\WebApplication1\bin\Antlr3.Runtime.pdb
+C:\Users\krish\OneDrive\Desktop\pcbapi\WebApplication1\bin\Microsoft.Owin.xml
+C:\Users\krish\OneDrive\Desktop\pcbapi\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\krish\OneDrive\Desktop\pcbapi\WebApplication1\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\krish\OneDrive\Desktop\pcbapi\WebApplication1\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\krish\OneDrive\Desktop\pcbapi\WebApplication1\bin\Microsoft.Owin.Security.xml
+C:\Users\krish\OneDrive\Desktop\pcbapi\WebApplication1\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\krish\OneDrive\Desktop\pcbapi\WebApplication1\bin\Microsoft.Owin.Security.Jwt.xml
+C:\Users\krish\OneDrive\Desktop\pcbapi\WebApplication1\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\krish\OneDrive\Desktop\pcbapi\WebApplication1\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\krish\OneDrive\Desktop\pcbapi\WebApplication1\bin\Microsoft.IdentityModel.Xml.xml
+C:\Users\krish\OneDrive\Desktop\pcbapi\WebApplication1\bin\Microsoft.IdentityModel.Tokens.Saml.xml
+C:\Users\krish\OneDrive\Desktop\pcbapi\WebApplication1\bin\Microsoft.IdentityModel.Protocols.xml
+C:\Users\krish\OneDrive\Desktop\pcbapi\WebApplication1\bin\Microsoft.IdentityModel.Protocols.WsFederation.xml
+C:\Users\krish\OneDrive\Desktop\pcbapi\WebApplication1\bin\Microsoft.Owin.Security.ActiveDirectory.xml
+C:\Users\krish\OneDrive\Desktop\pcbapi\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\krish\OneDrive\Desktop\pcbapi\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+D:\WIZLITE\Project Folder\lcmsapi\WebApplication1\bin\WebApplication1.dll.config
+D:\WIZLITE\Project Folder\lcmsapi\WebApplication1\bin\WebApplication1.dll
+D:\WIZLITE\Project Folder\lcmsapi\WebApplication1\bin\WebApplication1.pdb
+D:\WIZLITE\Project Folder\lcmsapi\WebApplication1\bin\roslyn\csc.exe.config
+D:\WIZLITE\Project Folder\lcmsapi\WebApplication1\bin\roslyn\csc.rsp
+D:\WIZLITE\Project Folder\lcmsapi\WebApplication1\bin\roslyn\csi.exe.config
+D:\WIZLITE\Project Folder\lcmsapi\WebApplication1\bin\roslyn\csi.rsp
+D:\WIZLITE\Project Folder\lcmsapi\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\WIZLITE\Project Folder\lcmsapi\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\WIZLITE\Project Folder\lcmsapi\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\WIZLITE\Project Folder\lcmsapi\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\WIZLITE\Project Folder\lcmsapi\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\WIZLITE\Project Folder\lcmsapi\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\WIZLITE\Project Folder\lcmsapi\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\WIZLITE\Project Folder\lcmsapi\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\WIZLITE\Project Folder\lcmsapi\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\WIZLITE\Project Folder\lcmsapi\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+D:\WIZLITE\Project Folder\lcmsapi\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\WIZLITE\Project Folder\lcmsapi\WebApplication1\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\WIZLITE\Project Folder\lcmsapi\WebApplication1\bin\roslyn\System.AppContext.dll
+D:\WIZLITE\Project Folder\lcmsapi\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+D:\WIZLITE\Project Folder\lcmsapi\WebApplication1\bin\roslyn\System.Console.dll
+D:\WIZLITE\Project Folder\lcmsapi\WebApplication1\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\WIZLITE\Project Folder\lcmsapi\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\WIZLITE\Project Folder\lcmsapi\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\WIZLITE\Project Folder\lcmsapi\WebApplication1\bin\roslyn\System.Globalization.Calendars.dll
+D:\WIZLITE\Project Folder\lcmsapi\WebApplication1\bin\roslyn\System.IO.Compression.dll
+D:\WIZLITE\Project Folder\lcmsapi\WebApplication1\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\WIZLITE\Project Folder\lcmsapi\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+D:\WIZLITE\Project Folder\lcmsapi\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\WIZLITE\Project Folder\lcmsapi\WebApplication1\bin\roslyn\System.Net.Http.dll
+D:\WIZLITE\Project Folder\lcmsapi\WebApplication1\bin\roslyn\System.Net.Sockets.dll
+D:\WIZLITE\Project Folder\lcmsapi\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+D:\WIZLITE\Project Folder\lcmsapi\WebApplication1\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\WIZLITE\Project Folder\lcmsapi\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\WIZLITE\Project Folder\lcmsapi\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\WIZLITE\Project Folder\lcmsapi\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\WIZLITE\Project Folder\lcmsapi\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\WIZLITE\Project Folder\lcmsapi\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\WIZLITE\Project Folder\lcmsapi\WebApplication1\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\WIZLITE\Project Folder\lcmsapi\WebApplication1\bin\roslyn\System.ValueTuple.dll
+D:\WIZLITE\Project Folder\lcmsapi\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\WIZLITE\Project Folder\lcmsapi\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+D:\WIZLITE\Project Folder\lcmsapi\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+D:\WIZLITE\Project Folder\lcmsapi\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\WIZLITE\Project Folder\lcmsapi\WebApplication1\bin\roslyn\vbc.exe.config
+D:\WIZLITE\Project Folder\lcmsapi\WebApplication1\bin\roslyn\vbc.rsp
+D:\WIZLITE\Project Folder\lcmsapi\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+D:\WIZLITE\Project Folder\lcmsapi\WebApplication1\bin\Antlr3.Runtime.dll
+D:\WIZLITE\Project Folder\lcmsapi\WebApplication1\bin\Dapper.dll
+D:\WIZLITE\Project Folder\lcmsapi\WebApplication1\bin\Microsoft.AspNet.Identity.Core.dll
+D:\WIZLITE\Project Folder\lcmsapi\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\WIZLITE\Project Folder\lcmsapi\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\WIZLITE\Project Folder\lcmsapi\WebApplication1\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\WIZLITE\Project Folder\lcmsapi\WebApplication1\bin\Microsoft.IdentityModel.Logging.dll
+D:\WIZLITE\Project Folder\lcmsapi\WebApplication1\bin\Microsoft.IdentityModel.Protocols.dll
+D:\WIZLITE\Project Folder\lcmsapi\WebApplication1\bin\Microsoft.IdentityModel.Protocols.WsFederation.dll
+D:\WIZLITE\Project Folder\lcmsapi\WebApplication1\bin\Microsoft.IdentityModel.Tokens.dll
+D:\WIZLITE\Project Folder\lcmsapi\WebApplication1\bin\Microsoft.IdentityModel.Tokens.Saml.dll
+D:\WIZLITE\Project Folder\lcmsapi\WebApplication1\bin\Microsoft.IdentityModel.Xml.dll
+D:\WIZLITE\Project Folder\lcmsapi\WebApplication1\bin\Microsoft.Owin.dll
+D:\WIZLITE\Project Folder\lcmsapi\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\WIZLITE\Project Folder\lcmsapi\WebApplication1\bin\Microsoft.Owin.Security.ActiveDirectory.dll
+D:\WIZLITE\Project Folder\lcmsapi\WebApplication1\bin\Microsoft.Owin.Security.Cookies.dll
+D:\WIZLITE\Project Folder\lcmsapi\WebApplication1\bin\Microsoft.Owin.Security.dll
+D:\WIZLITE\Project Folder\lcmsapi\WebApplication1\bin\Microsoft.Owin.Security.Jwt.dll
+D:\WIZLITE\Project Folder\lcmsapi\WebApplication1\bin\Microsoft.Owin.Security.OAuth.dll
+D:\WIZLITE\Project Folder\lcmsapi\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+D:\WIZLITE\Project Folder\lcmsapi\WebApplication1\bin\Newtonsoft.Json.Bson.dll
+D:\WIZLITE\Project Folder\lcmsapi\WebApplication1\bin\Newtonsoft.Json.dll
+D:\WIZLITE\Project Folder\lcmsapi\WebApplication1\bin\Owin.dll
+D:\WIZLITE\Project Folder\lcmsapi\WebApplication1\bin\System.Buffers.dll
+D:\WIZLITE\Project Folder\lcmsapi\WebApplication1\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\WIZLITE\Project Folder\lcmsapi\WebApplication1\bin\System.Memory.dll
+D:\WIZLITE\Project Folder\lcmsapi\WebApplication1\bin\System.Net.Http.Formatting.dll
+D:\WIZLITE\Project Folder\lcmsapi\WebApplication1\bin\System.Numerics.Vectors.dll
+D:\WIZLITE\Project Folder\lcmsapi\WebApplication1\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\WIZLITE\Project Folder\lcmsapi\WebApplication1\bin\System.Threading.Tasks.Extensions.dll
+D:\WIZLITE\Project Folder\lcmsapi\WebApplication1\bin\System.Web.Cors.dll
+D:\WIZLITE\Project Folder\lcmsapi\WebApplication1\bin\System.Web.Helpers.dll
+D:\WIZLITE\Project Folder\lcmsapi\WebApplication1\bin\System.Web.Http.Cors.dll
+D:\WIZLITE\Project Folder\lcmsapi\WebApplication1\bin\System.Web.Http.dll
+D:\WIZLITE\Project Folder\lcmsapi\WebApplication1\bin\System.Web.Http.WebHost.dll
+D:\WIZLITE\Project Folder\lcmsapi\WebApplication1\bin\System.Web.Mvc.dll
+D:\WIZLITE\Project Folder\lcmsapi\WebApplication1\bin\System.Web.Optimization.dll
+D:\WIZLITE\Project Folder\lcmsapi\WebApplication1\bin\System.Web.Razor.dll
+D:\WIZLITE\Project Folder\lcmsapi\WebApplication1\bin\System.Web.WebPages.Deployment.dll
+D:\WIZLITE\Project Folder\lcmsapi\WebApplication1\bin\System.Web.WebPages.dll
+D:\WIZLITE\Project Folder\lcmsapi\WebApplication1\bin\System.Web.WebPages.Razor.dll
+D:\WIZLITE\Project Folder\lcmsapi\WebApplication1\bin\WebGrease.dll
+D:\WIZLITE\Project Folder\lcmsapi\WebApplication1\bin\Dapper.xml
+D:\WIZLITE\Project Folder\lcmsapi\WebApplication1\bin\Microsoft.AspNet.Identity.Core.xml
+D:\WIZLITE\Project Folder\lcmsapi\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\WIZLITE\Project Folder\lcmsapi\WebApplication1\bin\Microsoft.Owin.Security.Cookies.xml
+D:\WIZLITE\Project Folder\lcmsapi\WebApplication1\bin\Newtonsoft.Json.xml
+D:\WIZLITE\Project Folder\lcmsapi\WebApplication1\bin\Newtonsoft.Json.Bson.pdb
+D:\WIZLITE\Project Folder\lcmsapi\WebApplication1\bin\Newtonsoft.Json.Bson.xml
+D:\WIZLITE\Project Folder\lcmsapi\WebApplication1\bin\System.Buffers.xml
+D:\WIZLITE\Project Folder\lcmsapi\WebApplication1\bin\System.Memory.xml
+D:\WIZLITE\Project Folder\lcmsapi\WebApplication1\bin\System.Net.Http.Formatting.xml
+D:\WIZLITE\Project Folder\lcmsapi\WebApplication1\bin\System.Numerics.Vectors.xml
+D:\WIZLITE\Project Folder\lcmsapi\WebApplication1\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\WIZLITE\Project Folder\lcmsapi\WebApplication1\bin\System.Threading.Tasks.Extensions.xml
+D:\WIZLITE\Project Folder\lcmsapi\WebApplication1\bin\System.Web.Helpers.xml
+D:\WIZLITE\Project Folder\lcmsapi\WebApplication1\bin\System.Web.Http.xml
+D:\WIZLITE\Project Folder\lcmsapi\WebApplication1\bin\System.Web.Http.Cors.xml
+D:\WIZLITE\Project Folder\lcmsapi\WebApplication1\bin\System.Web.Http.WebHost.xml
+D:\WIZLITE\Project Folder\lcmsapi\WebApplication1\bin\System.Web.Mvc.xml
+D:\WIZLITE\Project Folder\lcmsapi\WebApplication1\bin\System.Web.Razor.xml
+D:\WIZLITE\Project Folder\lcmsapi\WebApplication1\bin\System.Web.WebPages.xml
+D:\WIZLITE\Project Folder\lcmsapi\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+D:\WIZLITE\Project Folder\lcmsapi\WebApplication1\bin\System.Web.WebPages.Razor.xml
+D:\WIZLITE\Project Folder\lcmsapi\WebApplication1\bin\System.Web.Optimization.xml
+D:\WIZLITE\Project Folder\lcmsapi\WebApplication1\bin\Antlr3.Runtime.pdb
+D:\WIZLITE\Project Folder\lcmsapi\WebApplication1\bin\Microsoft.Owin.xml
+D:\WIZLITE\Project Folder\lcmsapi\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\WIZLITE\Project Folder\lcmsapi\WebApplication1\bin\Microsoft.IdentityModel.Logging.xml
+D:\WIZLITE\Project Folder\lcmsapi\WebApplication1\bin\Microsoft.IdentityModel.Tokens.xml
+D:\WIZLITE\Project Folder\lcmsapi\WebApplication1\bin\Microsoft.Owin.Security.xml
+D:\WIZLITE\Project Folder\lcmsapi\WebApplication1\bin\Microsoft.Owin.Security.OAuth.xml
+D:\WIZLITE\Project Folder\lcmsapi\WebApplication1\bin\Microsoft.Owin.Security.Jwt.xml
+D:\WIZLITE\Project Folder\lcmsapi\WebApplication1\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\WIZLITE\Project Folder\lcmsapi\WebApplication1\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\WIZLITE\Project Folder\lcmsapi\WebApplication1\bin\Microsoft.IdentityModel.Xml.xml
+D:\WIZLITE\Project Folder\lcmsapi\WebApplication1\bin\Microsoft.IdentityModel.Tokens.Saml.xml
+D:\WIZLITE\Project Folder\lcmsapi\WebApplication1\bin\Microsoft.IdentityModel.Protocols.xml
+D:\WIZLITE\Project Folder\lcmsapi\WebApplication1\bin\Microsoft.IdentityModel.Protocols.WsFederation.xml
+D:\WIZLITE\Project Folder\lcmsapi\WebApplication1\bin\Microsoft.Owin.Security.ActiveDirectory.xml
+D:\WIZLITE\Project Folder\lcmsapi\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\WIZLITE\Project Folder\lcmsapi\WebApplication1\obj\Debug\WebApplication1.csproj.AssemblyReference.cache
+D:\WIZLITE\Project Folder\lcmsapi\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+D:\WIZLITE\Project Folder\lcmsapi\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+D:\WIZLITE\Project Folder\lcmsapi\WebApplication1\obj\Debug\WebApplication1.dll
+D:\WIZLITE\Project Folder\lcmsapi\WebApplication1\obj\Debug\WebApplication1.pdb
+D:\Sajith\wizlite\LCMS\LCMSapi\WebApplication1\bin\WebApplication1.dll.config
+D:\Sajith\wizlite\LCMS\LCMSapi\WebApplication1\bin\WebApplication1.dll
+D:\Sajith\wizlite\LCMS\LCMSapi\WebApplication1\bin\WebApplication1.pdb
+D:\Sajith\wizlite\LCMS\LCMSapi\WebApplication1\bin\roslyn\csc.exe.config
+D:\Sajith\wizlite\LCMS\LCMSapi\WebApplication1\bin\roslyn\csc.rsp
+D:\Sajith\wizlite\LCMS\LCMSapi\WebApplication1\bin\roslyn\csi.exe.config
+D:\Sajith\wizlite\LCMS\LCMSapi\WebApplication1\bin\roslyn\csi.rsp
+D:\Sajith\wizlite\LCMS\LCMSapi\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Sajith\wizlite\LCMS\LCMSapi\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Sajith\wizlite\LCMS\LCMSapi\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Sajith\wizlite\LCMS\LCMSapi\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Sajith\wizlite\LCMS\LCMSapi\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Sajith\wizlite\LCMS\LCMSapi\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Sajith\wizlite\LCMS\LCMSapi\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Sajith\wizlite\LCMS\LCMSapi\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Sajith\wizlite\LCMS\LCMSapi\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Sajith\wizlite\LCMS\LCMSapi\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Sajith\wizlite\LCMS\LCMSapi\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Sajith\wizlite\LCMS\LCMSapi\WebApplication1\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Sajith\wizlite\LCMS\LCMSapi\WebApplication1\bin\roslyn\System.AppContext.dll
+D:\Sajith\wizlite\LCMS\LCMSapi\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+D:\Sajith\wizlite\LCMS\LCMSapi\WebApplication1\bin\roslyn\System.Console.dll
+D:\Sajith\wizlite\LCMS\LCMSapi\WebApplication1\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Sajith\wizlite\LCMS\LCMSapi\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Sajith\wizlite\LCMS\LCMSapi\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Sajith\wizlite\LCMS\LCMSapi\WebApplication1\bin\roslyn\System.Globalization.Calendars.dll
+D:\Sajith\wizlite\LCMS\LCMSapi\WebApplication1\bin\roslyn\System.IO.Compression.dll
+D:\Sajith\wizlite\LCMS\LCMSapi\WebApplication1\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Sajith\wizlite\LCMS\LCMSapi\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+D:\Sajith\wizlite\LCMS\LCMSapi\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Sajith\wizlite\LCMS\LCMSapi\WebApplication1\bin\roslyn\System.Net.Http.dll
+D:\Sajith\wizlite\LCMS\LCMSapi\WebApplication1\bin\roslyn\System.Net.Sockets.dll
+D:\Sajith\wizlite\LCMS\LCMSapi\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+D:\Sajith\wizlite\LCMS\LCMSapi\WebApplication1\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Sajith\wizlite\LCMS\LCMSapi\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Sajith\wizlite\LCMS\LCMSapi\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Sajith\wizlite\LCMS\LCMSapi\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Sajith\wizlite\LCMS\LCMSapi\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Sajith\wizlite\LCMS\LCMSapi\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Sajith\wizlite\LCMS\LCMSapi\WebApplication1\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Sajith\wizlite\LCMS\LCMSapi\WebApplication1\bin\roslyn\System.ValueTuple.dll
+D:\Sajith\wizlite\LCMS\LCMSapi\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Sajith\wizlite\LCMS\LCMSapi\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Sajith\wizlite\LCMS\LCMSapi\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+D:\Sajith\wizlite\LCMS\LCMSapi\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Sajith\wizlite\LCMS\LCMSapi\WebApplication1\bin\roslyn\vbc.exe.config
+D:\Sajith\wizlite\LCMS\LCMSapi\WebApplication1\bin\roslyn\vbc.rsp
+D:\Sajith\wizlite\LCMS\LCMSapi\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+D:\Sajith\wizlite\LCMS\LCMSapi\WebApplication1\bin\Antlr3.Runtime.dll
+D:\Sajith\wizlite\LCMS\LCMSapi\WebApplication1\bin\Dapper.dll
+D:\Sajith\wizlite\LCMS\LCMSapi\WebApplication1\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Sajith\wizlite\LCMS\LCMSapi\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Sajith\wizlite\LCMS\LCMSapi\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Sajith\wizlite\LCMS\LCMSapi\WebApplication1\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Sajith\wizlite\LCMS\LCMSapi\WebApplication1\bin\Microsoft.IdentityModel.Logging.dll
+D:\Sajith\wizlite\LCMS\LCMSapi\WebApplication1\bin\Microsoft.IdentityModel.Protocols.dll
+D:\Sajith\wizlite\LCMS\LCMSapi\WebApplication1\bin\Microsoft.IdentityModel.Protocols.WsFederation.dll
+D:\Sajith\wizlite\LCMS\LCMSapi\WebApplication1\bin\Microsoft.IdentityModel.Tokens.dll
+D:\Sajith\wizlite\LCMS\LCMSapi\WebApplication1\bin\Microsoft.IdentityModel.Tokens.Saml.dll
+D:\Sajith\wizlite\LCMS\LCMSapi\WebApplication1\bin\Microsoft.IdentityModel.Xml.dll
+D:\Sajith\wizlite\LCMS\LCMSapi\WebApplication1\bin\Microsoft.Owin.dll
+D:\Sajith\wizlite\LCMS\LCMSapi\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Sajith\wizlite\LCMS\LCMSapi\WebApplication1\bin\Microsoft.Owin.Security.ActiveDirectory.dll
+D:\Sajith\wizlite\LCMS\LCMSapi\WebApplication1\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Sajith\wizlite\LCMS\LCMSapi\WebApplication1\bin\Microsoft.Owin.Security.dll
+D:\Sajith\wizlite\LCMS\LCMSapi\WebApplication1\bin\Microsoft.Owin.Security.Jwt.dll
+D:\Sajith\wizlite\LCMS\LCMSapi\WebApplication1\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Sajith\wizlite\LCMS\LCMSapi\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+D:\Sajith\wizlite\LCMS\LCMSapi\WebApplication1\bin\Newtonsoft.Json.Bson.dll
+D:\Sajith\wizlite\LCMS\LCMSapi\WebApplication1\bin\Newtonsoft.Json.dll
+D:\Sajith\wizlite\LCMS\LCMSapi\WebApplication1\bin\Owin.dll
+D:\Sajith\wizlite\LCMS\LCMSapi\WebApplication1\bin\System.Buffers.dll
+D:\Sajith\wizlite\LCMS\LCMSapi\WebApplication1\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\Sajith\wizlite\LCMS\LCMSapi\WebApplication1\bin\System.Memory.dll
+D:\Sajith\wizlite\LCMS\LCMSapi\WebApplication1\bin\System.Net.Http.Formatting.dll
+D:\Sajith\wizlite\LCMS\LCMSapi\WebApplication1\bin\System.Numerics.Vectors.dll
+D:\Sajith\wizlite\LCMS\LCMSapi\WebApplication1\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Sajith\wizlite\LCMS\LCMSapi\WebApplication1\bin\System.Threading.Tasks.Extensions.dll
+D:\Sajith\wizlite\LCMS\LCMSapi\WebApplication1\bin\System.Web.Cors.dll
+D:\Sajith\wizlite\LCMS\LCMSapi\WebApplication1\bin\System.Web.Helpers.dll
+D:\Sajith\wizlite\LCMS\LCMSapi\WebApplication1\bin\System.Web.Http.Cors.dll
+D:\Sajith\wizlite\LCMS\LCMSapi\WebApplication1\bin\System.Web.Http.dll
+D:\Sajith\wizlite\LCMS\LCMSapi\WebApplication1\bin\System.Web.Http.WebHost.dll
+D:\Sajith\wizlite\LCMS\LCMSapi\WebApplication1\bin\System.Web.Mvc.dll
+D:\Sajith\wizlite\LCMS\LCMSapi\WebApplication1\bin\System.Web.Optimization.dll
+D:\Sajith\wizlite\LCMS\LCMSapi\WebApplication1\bin\System.Web.Razor.dll
+D:\Sajith\wizlite\LCMS\LCMSapi\WebApplication1\bin\System.Web.WebPages.Deployment.dll
+D:\Sajith\wizlite\LCMS\LCMSapi\WebApplication1\bin\System.Web.WebPages.dll
+D:\Sajith\wizlite\LCMS\LCMSapi\WebApplication1\bin\System.Web.WebPages.Razor.dll
+D:\Sajith\wizlite\LCMS\LCMSapi\WebApplication1\bin\WebGrease.dll
+D:\Sajith\wizlite\LCMS\LCMSapi\WebApplication1\bin\Dapper.xml
+D:\Sajith\wizlite\LCMS\LCMSapi\WebApplication1\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Sajith\wizlite\LCMS\LCMSapi\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Sajith\wizlite\LCMS\LCMSapi\WebApplication1\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Sajith\wizlite\LCMS\LCMSapi\WebApplication1\bin\Newtonsoft.Json.xml
+D:\Sajith\wizlite\LCMS\LCMSapi\WebApplication1\bin\Newtonsoft.Json.Bson.pdb
+D:\Sajith\wizlite\LCMS\LCMSapi\WebApplication1\bin\Newtonsoft.Json.Bson.xml
+D:\Sajith\wizlite\LCMS\LCMSapi\WebApplication1\bin\System.Buffers.xml
+D:\Sajith\wizlite\LCMS\LCMSapi\WebApplication1\bin\System.Memory.xml
+D:\Sajith\wizlite\LCMS\LCMSapi\WebApplication1\bin\System.Net.Http.Formatting.xml
+D:\Sajith\wizlite\LCMS\LCMSapi\WebApplication1\bin\System.Numerics.Vectors.xml
+D:\Sajith\wizlite\LCMS\LCMSapi\WebApplication1\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Sajith\wizlite\LCMS\LCMSapi\WebApplication1\bin\System.Threading.Tasks.Extensions.xml
+D:\Sajith\wizlite\LCMS\LCMSapi\WebApplication1\bin\System.Web.Helpers.xml
+D:\Sajith\wizlite\LCMS\LCMSapi\WebApplication1\bin\System.Web.Http.xml
+D:\Sajith\wizlite\LCMS\LCMSapi\WebApplication1\bin\System.Web.Http.Cors.xml
+D:\Sajith\wizlite\LCMS\LCMSapi\WebApplication1\bin\System.Web.Http.WebHost.xml
+D:\Sajith\wizlite\LCMS\LCMSapi\WebApplication1\bin\System.Web.Mvc.xml
+D:\Sajith\wizlite\LCMS\LCMSapi\WebApplication1\bin\System.Web.Razor.xml
+D:\Sajith\wizlite\LCMS\LCMSapi\WebApplication1\bin\System.Web.WebPages.xml
+D:\Sajith\wizlite\LCMS\LCMSapi\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+D:\Sajith\wizlite\LCMS\LCMSapi\WebApplication1\bin\System.Web.WebPages.Razor.xml
+D:\Sajith\wizlite\LCMS\LCMSapi\WebApplication1\bin\System.Web.Optimization.xml
+D:\Sajith\wizlite\LCMS\LCMSapi\WebApplication1\bin\Antlr3.Runtime.pdb
+D:\Sajith\wizlite\LCMS\LCMSapi\WebApplication1\bin\Microsoft.Owin.xml
+D:\Sajith\wizlite\LCMS\LCMSapi\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Sajith\wizlite\LCMS\LCMSapi\WebApplication1\bin\Microsoft.IdentityModel.Logging.xml
+D:\Sajith\wizlite\LCMS\LCMSapi\WebApplication1\bin\Microsoft.IdentityModel.Tokens.xml
+D:\Sajith\wizlite\LCMS\LCMSapi\WebApplication1\bin\Microsoft.Owin.Security.xml
+D:\Sajith\wizlite\LCMS\LCMSapi\WebApplication1\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Sajith\wizlite\LCMS\LCMSapi\WebApplication1\bin\Microsoft.Owin.Security.Jwt.xml
+D:\Sajith\wizlite\LCMS\LCMSapi\WebApplication1\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\Sajith\wizlite\LCMS\LCMSapi\WebApplication1\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\Sajith\wizlite\LCMS\LCMSapi\WebApplication1\bin\Microsoft.IdentityModel.Xml.xml
+D:\Sajith\wizlite\LCMS\LCMSapi\WebApplication1\bin\Microsoft.IdentityModel.Tokens.Saml.xml
+D:\Sajith\wizlite\LCMS\LCMSapi\WebApplication1\bin\Microsoft.IdentityModel.Protocols.xml
+D:\Sajith\wizlite\LCMS\LCMSapi\WebApplication1\bin\Microsoft.IdentityModel.Protocols.WsFederation.xml
+D:\Sajith\wizlite\LCMS\LCMSapi\WebApplication1\bin\Microsoft.Owin.Security.ActiveDirectory.xml
+D:\Sajith\wizlite\LCMS\LCMSapi\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Sajith\wizlite\LCMS\LCMSapi\WebApplication1\obj\Debug\WebApplication1.csproj.AssemblyReference.cache
+D:\Sajith\wizlite\LCMS\LCMSapi\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+D:\Sajith\wizlite\LCMS\LCMSapi\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+D:\Sajith\wizlite\LCMS\LCMSapi\WebApplication1\obj\Debug\WebApplication1.dll
+D:\Sajith\wizlite\LCMS\LCMSapi\WebApplication1\obj\Debug\WebApplication1.pdb
+D:\WIZLITE\LCMS\LCMSapi\WebApplication1\bin\WebApplication1.dll.config
+D:\WIZLITE\LCMS\LCMSapi\WebApplication1\bin\WebApplication1.dll
+D:\WIZLITE\LCMS\LCMSapi\WebApplication1\bin\WebApplication1.pdb
+D:\WIZLITE\LCMS\LCMSapi\WebApplication1\bin\roslyn\csc.exe.config
+D:\WIZLITE\LCMS\LCMSapi\WebApplication1\bin\roslyn\csc.rsp
+D:\WIZLITE\LCMS\LCMSapi\WebApplication1\bin\roslyn\csi.exe.config
+D:\WIZLITE\LCMS\LCMSapi\WebApplication1\bin\roslyn\csi.rsp
+D:\WIZLITE\LCMS\LCMSapi\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\WIZLITE\LCMS\LCMSapi\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\WIZLITE\LCMS\LCMSapi\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\WIZLITE\LCMS\LCMSapi\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\WIZLITE\LCMS\LCMSapi\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\WIZLITE\LCMS\LCMSapi\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\WIZLITE\LCMS\LCMSapi\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\WIZLITE\LCMS\LCMSapi\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\WIZLITE\LCMS\LCMSapi\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\WIZLITE\LCMS\LCMSapi\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+D:\WIZLITE\LCMS\LCMSapi\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\WIZLITE\LCMS\LCMSapi\WebApplication1\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\WIZLITE\LCMS\LCMSapi\WebApplication1\bin\roslyn\System.AppContext.dll
+D:\WIZLITE\LCMS\LCMSapi\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+D:\WIZLITE\LCMS\LCMSapi\WebApplication1\bin\roslyn\System.Console.dll
+D:\WIZLITE\LCMS\LCMSapi\WebApplication1\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\WIZLITE\LCMS\LCMSapi\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\WIZLITE\LCMS\LCMSapi\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\WIZLITE\LCMS\LCMSapi\WebApplication1\bin\roslyn\System.Globalization.Calendars.dll
+D:\WIZLITE\LCMS\LCMSapi\WebApplication1\bin\roslyn\System.IO.Compression.dll
+D:\WIZLITE\LCMS\LCMSapi\WebApplication1\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\WIZLITE\LCMS\LCMSapi\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+D:\WIZLITE\LCMS\LCMSapi\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\WIZLITE\LCMS\LCMSapi\WebApplication1\bin\roslyn\System.Net.Http.dll
+D:\WIZLITE\LCMS\LCMSapi\WebApplication1\bin\roslyn\System.Net.Sockets.dll
+D:\WIZLITE\LCMS\LCMSapi\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+D:\WIZLITE\LCMS\LCMSapi\WebApplication1\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\WIZLITE\LCMS\LCMSapi\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\WIZLITE\LCMS\LCMSapi\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\WIZLITE\LCMS\LCMSapi\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\WIZLITE\LCMS\LCMSapi\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\WIZLITE\LCMS\LCMSapi\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\WIZLITE\LCMS\LCMSapi\WebApplication1\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\WIZLITE\LCMS\LCMSapi\WebApplication1\bin\roslyn\System.ValueTuple.dll
+D:\WIZLITE\LCMS\LCMSapi\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\WIZLITE\LCMS\LCMSapi\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+D:\WIZLITE\LCMS\LCMSapi\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+D:\WIZLITE\LCMS\LCMSapi\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\WIZLITE\LCMS\LCMSapi\WebApplication1\bin\roslyn\vbc.exe.config
+D:\WIZLITE\LCMS\LCMSapi\WebApplication1\bin\roslyn\vbc.rsp
+D:\WIZLITE\LCMS\LCMSapi\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+D:\WIZLITE\LCMS\LCMSapi\WebApplication1\bin\Antlr3.Runtime.dll
+D:\WIZLITE\LCMS\LCMSapi\WebApplication1\bin\Dapper.dll
+D:\WIZLITE\LCMS\LCMSapi\WebApplication1\bin\Microsoft.AspNet.Identity.Core.dll
+D:\WIZLITE\LCMS\LCMSapi\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\WIZLITE\LCMS\LCMSapi\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\WIZLITE\LCMS\LCMSapi\WebApplication1\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\WIZLITE\LCMS\LCMSapi\WebApplication1\bin\Microsoft.IdentityModel.Logging.dll
+D:\WIZLITE\LCMS\LCMSapi\WebApplication1\bin\Microsoft.IdentityModel.Protocols.dll
+D:\WIZLITE\LCMS\LCMSapi\WebApplication1\bin\Microsoft.IdentityModel.Protocols.WsFederation.dll
+D:\WIZLITE\LCMS\LCMSapi\WebApplication1\bin\Microsoft.IdentityModel.Tokens.dll
+D:\WIZLITE\LCMS\LCMSapi\WebApplication1\bin\Microsoft.IdentityModel.Tokens.Saml.dll
+D:\WIZLITE\LCMS\LCMSapi\WebApplication1\bin\Microsoft.IdentityModel.Xml.dll
+D:\WIZLITE\LCMS\LCMSapi\WebApplication1\bin\Microsoft.Owin.dll
+D:\WIZLITE\LCMS\LCMSapi\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\WIZLITE\LCMS\LCMSapi\WebApplication1\bin\Microsoft.Owin.Security.ActiveDirectory.dll
+D:\WIZLITE\LCMS\LCMSapi\WebApplication1\bin\Microsoft.Owin.Security.Cookies.dll
+D:\WIZLITE\LCMS\LCMSapi\WebApplication1\bin\Microsoft.Owin.Security.dll
+D:\WIZLITE\LCMS\LCMSapi\WebApplication1\bin\Microsoft.Owin.Security.Jwt.dll
+D:\WIZLITE\LCMS\LCMSapi\WebApplication1\bin\Microsoft.Owin.Security.OAuth.dll
+D:\WIZLITE\LCMS\LCMSapi\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+D:\WIZLITE\LCMS\LCMSapi\WebApplication1\bin\Newtonsoft.Json.Bson.dll
+D:\WIZLITE\LCMS\LCMSapi\WebApplication1\bin\Newtonsoft.Json.dll
+D:\WIZLITE\LCMS\LCMSapi\WebApplication1\bin\Owin.dll
+D:\WIZLITE\LCMS\LCMSapi\WebApplication1\bin\System.Buffers.dll
+D:\WIZLITE\LCMS\LCMSapi\WebApplication1\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\WIZLITE\LCMS\LCMSapi\WebApplication1\bin\System.Memory.dll
+D:\WIZLITE\LCMS\LCMSapi\WebApplication1\bin\System.Net.Http.Formatting.dll
+D:\WIZLITE\LCMS\LCMSapi\WebApplication1\bin\System.Numerics.Vectors.dll
+D:\WIZLITE\LCMS\LCMSapi\WebApplication1\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\WIZLITE\LCMS\LCMSapi\WebApplication1\bin\System.Threading.Tasks.Extensions.dll
+D:\WIZLITE\LCMS\LCMSapi\WebApplication1\bin\System.Web.Cors.dll
+D:\WIZLITE\LCMS\LCMSapi\WebApplication1\bin\System.Web.Helpers.dll
+D:\WIZLITE\LCMS\LCMSapi\WebApplication1\bin\System.Web.Http.Cors.dll
+D:\WIZLITE\LCMS\LCMSapi\WebApplication1\bin\System.Web.Http.dll
+D:\WIZLITE\LCMS\LCMSapi\WebApplication1\bin\System.Web.Http.WebHost.dll
+D:\WIZLITE\LCMS\LCMSapi\WebApplication1\bin\System.Web.Mvc.dll
+D:\WIZLITE\LCMS\LCMSapi\WebApplication1\bin\System.Web.Optimization.dll
+D:\WIZLITE\LCMS\LCMSapi\WebApplication1\bin\System.Web.Razor.dll
+D:\WIZLITE\LCMS\LCMSapi\WebApplication1\bin\System.Web.WebPages.Deployment.dll
+D:\WIZLITE\LCMS\LCMSapi\WebApplication1\bin\System.Web.WebPages.dll
+D:\WIZLITE\LCMS\LCMSapi\WebApplication1\bin\System.Web.WebPages.Razor.dll
+D:\WIZLITE\LCMS\LCMSapi\WebApplication1\bin\WebGrease.dll
+D:\WIZLITE\LCMS\LCMSapi\WebApplication1\bin\Dapper.xml
+D:\WIZLITE\LCMS\LCMSapi\WebApplication1\bin\Microsoft.AspNet.Identity.Core.xml
+D:\WIZLITE\LCMS\LCMSapi\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\WIZLITE\LCMS\LCMSapi\WebApplication1\bin\Microsoft.Owin.Security.Cookies.xml
+D:\WIZLITE\LCMS\LCMSapi\WebApplication1\bin\Newtonsoft.Json.xml
+D:\WIZLITE\LCMS\LCMSapi\WebApplication1\bin\Newtonsoft.Json.Bson.pdb
+D:\WIZLITE\LCMS\LCMSapi\WebApplication1\bin\Newtonsoft.Json.Bson.xml
+D:\WIZLITE\LCMS\LCMSapi\WebApplication1\bin\System.Buffers.xml
+D:\WIZLITE\LCMS\LCMSapi\WebApplication1\bin\System.Memory.xml
+D:\WIZLITE\LCMS\LCMSapi\WebApplication1\bin\System.Net.Http.Formatting.xml
+D:\WIZLITE\LCMS\LCMSapi\WebApplication1\bin\System.Numerics.Vectors.xml
+D:\WIZLITE\LCMS\LCMSapi\WebApplication1\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\WIZLITE\LCMS\LCMSapi\WebApplication1\bin\System.Threading.Tasks.Extensions.xml
+D:\WIZLITE\LCMS\LCMSapi\WebApplication1\bin\System.Web.Helpers.xml
+D:\WIZLITE\LCMS\LCMSapi\WebApplication1\bin\System.Web.Http.xml
+D:\WIZLITE\LCMS\LCMSapi\WebApplication1\bin\System.Web.Http.Cors.xml
+D:\WIZLITE\LCMS\LCMSapi\WebApplication1\bin\System.Web.Http.WebHost.xml
+D:\WIZLITE\LCMS\LCMSapi\WebApplication1\bin\System.Web.Mvc.xml
+D:\WIZLITE\LCMS\LCMSapi\WebApplication1\bin\System.Web.Razor.xml
+D:\WIZLITE\LCMS\LCMSapi\WebApplication1\bin\System.Web.WebPages.xml
+D:\WIZLITE\LCMS\LCMSapi\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+D:\WIZLITE\LCMS\LCMSapi\WebApplication1\bin\System.Web.WebPages.Razor.xml
+D:\WIZLITE\LCMS\LCMSapi\WebApplication1\bin\System.Web.Optimization.xml
+D:\WIZLITE\LCMS\LCMSapi\WebApplication1\bin\Antlr3.Runtime.pdb
+D:\WIZLITE\LCMS\LCMSapi\WebApplication1\bin\Microsoft.Owin.xml
+D:\WIZLITE\LCMS\LCMSapi\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\WIZLITE\LCMS\LCMSapi\WebApplication1\bin\Microsoft.IdentityModel.Logging.xml
+D:\WIZLITE\LCMS\LCMSapi\WebApplication1\bin\Microsoft.IdentityModel.Tokens.xml
+D:\WIZLITE\LCMS\LCMSapi\WebApplication1\bin\Microsoft.Owin.Security.xml
+D:\WIZLITE\LCMS\LCMSapi\WebApplication1\bin\Microsoft.Owin.Security.OAuth.xml
+D:\WIZLITE\LCMS\LCMSapi\WebApplication1\bin\Microsoft.Owin.Security.Jwt.xml
+D:\WIZLITE\LCMS\LCMSapi\WebApplication1\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\WIZLITE\LCMS\LCMSapi\WebApplication1\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\WIZLITE\LCMS\LCMSapi\WebApplication1\bin\Microsoft.IdentityModel.Xml.xml
+D:\WIZLITE\LCMS\LCMSapi\WebApplication1\bin\Microsoft.IdentityModel.Tokens.Saml.xml
+D:\WIZLITE\LCMS\LCMSapi\WebApplication1\bin\Microsoft.IdentityModel.Protocols.xml
+D:\WIZLITE\LCMS\LCMSapi\WebApplication1\bin\Microsoft.IdentityModel.Protocols.WsFederation.xml
+D:\WIZLITE\LCMS\LCMSapi\WebApplication1\bin\Microsoft.Owin.Security.ActiveDirectory.xml
+D:\WIZLITE\LCMS\LCMSapi\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\WIZLITE\LCMS\LCMSapi\WebApplication1\obj\Debug\WebApplication1.csproj.AssemblyReference.cache
+D:\WIZLITE\LCMS\LCMSapi\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+D:\WIZLITE\LCMS\LCMSapi\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+D:\WIZLITE\LCMS\LCMSapi\WebApplication1\obj\Debug\WebApplication1.dll
+D:\WIZLITE\LCMS\LCMSapi\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\dell\Desktop\Hotel_management\HMAPI\CommonAPI\WebApplication1\obj\Debug\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\dell\Desktop\Hotel_management\HMAPI\CommonAPI\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\Hotel_management\HMAPI\CommonAPI\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\dell\Desktop\Hotel_management\HMAPI\CommonAPI\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\dell\Desktop\Hotel_management\HMAPI\CommonAPI\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\dell\Desktop\Hotel_management\HMAPI\CommonAPI\WebApplication1\bin\WebApplication1.dll
+C:\Users\dell\Desktop\Hotel_management\HMAPI\CommonAPI\WebApplication1\bin\WebApplication1.pdb
+C:\Users\dell\Desktop\Hotel_management\HMAPI\CommonAPI\WebApplication1\bin\roslyn\csc.exe.config
+C:\Users\dell\Desktop\Hotel_management\HMAPI\CommonAPI\WebApplication1\bin\roslyn\csc.rsp
+C:\Users\dell\Desktop\Hotel_management\HMAPI\CommonAPI\WebApplication1\bin\roslyn\csi.exe.config
+C:\Users\dell\Desktop\Hotel_management\HMAPI\CommonAPI\WebApplication1\bin\roslyn\csi.rsp
+C:\Users\dell\Desktop\Hotel_management\HMAPI\CommonAPI\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\dell\Desktop\Hotel_management\HMAPI\CommonAPI\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\dell\Desktop\Hotel_management\HMAPI\CommonAPI\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\dell\Desktop\Hotel_management\HMAPI\CommonAPI\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\dell\Desktop\Hotel_management\HMAPI\CommonAPI\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\dell\Desktop\Hotel_management\HMAPI\CommonAPI\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\dell\Desktop\Hotel_management\HMAPI\CommonAPI\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\dell\Desktop\Hotel_management\HMAPI\CommonAPI\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\dell\Desktop\Hotel_management\HMAPI\CommonAPI\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\dell\Desktop\Hotel_management\HMAPI\CommonAPI\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\dell\Desktop\Hotel_management\HMAPI\CommonAPI\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\dell\Desktop\Hotel_management\HMAPI\CommonAPI\WebApplication1\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\dell\Desktop\Hotel_management\HMAPI\CommonAPI\WebApplication1\bin\roslyn\System.AppContext.dll
+C:\Users\dell\Desktop\Hotel_management\HMAPI\CommonAPI\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\dell\Desktop\Hotel_management\HMAPI\CommonAPI\WebApplication1\bin\roslyn\System.Console.dll
+C:\Users\dell\Desktop\Hotel_management\HMAPI\CommonAPI\WebApplication1\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\dell\Desktop\Hotel_management\HMAPI\CommonAPI\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\dell\Desktop\Hotel_management\HMAPI\CommonAPI\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\dell\Desktop\Hotel_management\HMAPI\CommonAPI\WebApplication1\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\dell\Desktop\Hotel_management\HMAPI\CommonAPI\WebApplication1\bin\roslyn\System.IO.Compression.dll
+C:\Users\dell\Desktop\Hotel_management\HMAPI\CommonAPI\WebApplication1\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\dell\Desktop\Hotel_management\HMAPI\CommonAPI\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\dell\Desktop\Hotel_management\HMAPI\CommonAPI\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\dell\Desktop\Hotel_management\HMAPI\CommonAPI\WebApplication1\bin\roslyn\System.Net.Http.dll
+C:\Users\dell\Desktop\Hotel_management\HMAPI\CommonAPI\WebApplication1\bin\roslyn\System.Net.Sockets.dll
+C:\Users\dell\Desktop\Hotel_management\HMAPI\CommonAPI\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\dell\Desktop\Hotel_management\HMAPI\CommonAPI\WebApplication1\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\dell\Desktop\Hotel_management\HMAPI\CommonAPI\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\dell\Desktop\Hotel_management\HMAPI\CommonAPI\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\dell\Desktop\Hotel_management\HMAPI\CommonAPI\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\dell\Desktop\Hotel_management\HMAPI\CommonAPI\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\dell\Desktop\Hotel_management\HMAPI\CommonAPI\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\dell\Desktop\Hotel_management\HMAPI\CommonAPI\WebApplication1\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\dell\Desktop\Hotel_management\HMAPI\CommonAPI\WebApplication1\bin\roslyn\System.ValueTuple.dll
+C:\Users\dell\Desktop\Hotel_management\HMAPI\CommonAPI\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\dell\Desktop\Hotel_management\HMAPI\CommonAPI\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\dell\Desktop\Hotel_management\HMAPI\CommonAPI\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+C:\Users\dell\Desktop\Hotel_management\HMAPI\CommonAPI\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\dell\Desktop\Hotel_management\HMAPI\CommonAPI\WebApplication1\bin\roslyn\vbc.exe.config
+C:\Users\dell\Desktop\Hotel_management\HMAPI\CommonAPI\WebApplication1\bin\roslyn\vbc.rsp
+C:\Users\dell\Desktop\Hotel_management\HMAPI\CommonAPI\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\dell\Desktop\Hotel_management\HMAPI\CommonAPI\WebApplication1\bin\Antlr3.Runtime.dll
+C:\Users\dell\Desktop\Hotel_management\HMAPI\CommonAPI\WebApplication1\bin\Dapper.dll
+C:\Users\dell\Desktop\Hotel_management\HMAPI\CommonAPI\WebApplication1\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\dell\Desktop\Hotel_management\HMAPI\CommonAPI\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\dell\Desktop\Hotel_management\HMAPI\CommonAPI\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\dell\Desktop\Hotel_management\HMAPI\CommonAPI\WebApplication1\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\dell\Desktop\Hotel_management\HMAPI\CommonAPI\WebApplication1\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\dell\Desktop\Hotel_management\HMAPI\CommonAPI\WebApplication1\bin\Microsoft.IdentityModel.Protocols.dll
+C:\Users\dell\Desktop\Hotel_management\HMAPI\CommonAPI\WebApplication1\bin\Microsoft.IdentityModel.Protocols.WsFederation.dll
+C:\Users\dell\Desktop\Hotel_management\HMAPI\CommonAPI\WebApplication1\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\dell\Desktop\Hotel_management\HMAPI\CommonAPI\WebApplication1\bin\Microsoft.IdentityModel.Tokens.Saml.dll
+C:\Users\dell\Desktop\Hotel_management\HMAPI\CommonAPI\WebApplication1\bin\Microsoft.IdentityModel.Xml.dll
+C:\Users\dell\Desktop\Hotel_management\HMAPI\CommonAPI\WebApplication1\bin\Microsoft.Owin.dll
+C:\Users\dell\Desktop\Hotel_management\HMAPI\CommonAPI\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\dell\Desktop\Hotel_management\HMAPI\CommonAPI\WebApplication1\bin\Microsoft.Owin.Security.ActiveDirectory.dll
+C:\Users\dell\Desktop\Hotel_management\HMAPI\CommonAPI\WebApplication1\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\dell\Desktop\Hotel_management\HMAPI\CommonAPI\WebApplication1\bin\Microsoft.Owin.Security.dll
+C:\Users\dell\Desktop\Hotel_management\HMAPI\CommonAPI\WebApplication1\bin\Microsoft.Owin.Security.Jwt.dll
+C:\Users\dell\Desktop\Hotel_management\HMAPI\CommonAPI\WebApplication1\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\dell\Desktop\Hotel_management\HMAPI\CommonAPI\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\dell\Desktop\Hotel_management\HMAPI\CommonAPI\WebApplication1\bin\Newtonsoft.Json.Bson.dll
+C:\Users\dell\Desktop\Hotel_management\HMAPI\CommonAPI\WebApplication1\bin\Newtonsoft.Json.dll
+C:\Users\dell\Desktop\Hotel_management\HMAPI\CommonAPI\WebApplication1\bin\Owin.dll
+C:\Users\dell\Desktop\Hotel_management\HMAPI\CommonAPI\WebApplication1\bin\System.Buffers.dll
+C:\Users\dell\Desktop\Hotel_management\HMAPI\CommonAPI\WebApplication1\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\dell\Desktop\Hotel_management\HMAPI\CommonAPI\WebApplication1\bin\System.Memory.dll
+C:\Users\dell\Desktop\Hotel_management\HMAPI\CommonAPI\WebApplication1\bin\System.Net.Http.Formatting.dll
+C:\Users\dell\Desktop\Hotel_management\HMAPI\CommonAPI\WebApplication1\bin\System.Numerics.Vectors.dll
+C:\Users\dell\Desktop\Hotel_management\HMAPI\CommonAPI\WebApplication1\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\dell\Desktop\Hotel_management\HMAPI\CommonAPI\WebApplication1\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\dell\Desktop\Hotel_management\HMAPI\CommonAPI\WebApplication1\bin\System.Web.Cors.dll
+C:\Users\dell\Desktop\Hotel_management\HMAPI\CommonAPI\WebApplication1\bin\System.Web.Helpers.dll
+C:\Users\dell\Desktop\Hotel_management\HMAPI\CommonAPI\WebApplication1\bin\System.Web.Http.Cors.dll
+C:\Users\dell\Desktop\Hotel_management\HMAPI\CommonAPI\WebApplication1\bin\System.Web.Http.dll
+C:\Users\dell\Desktop\Hotel_management\HMAPI\CommonAPI\WebApplication1\bin\System.Web.Http.WebHost.dll
+C:\Users\dell\Desktop\Hotel_management\HMAPI\CommonAPI\WebApplication1\bin\System.Web.Mvc.dll
+C:\Users\dell\Desktop\Hotel_management\HMAPI\CommonAPI\WebApplication1\bin\System.Web.Optimization.dll
+C:\Users\dell\Desktop\Hotel_management\HMAPI\CommonAPI\WebApplication1\bin\System.Web.Razor.dll
+C:\Users\dell\Desktop\Hotel_management\HMAPI\CommonAPI\WebApplication1\bin\System.Web.WebPages.Deployment.dll
+C:\Users\dell\Desktop\Hotel_management\HMAPI\CommonAPI\WebApplication1\bin\System.Web.WebPages.dll
+C:\Users\dell\Desktop\Hotel_management\HMAPI\CommonAPI\WebApplication1\bin\System.Web.WebPages.Razor.dll
+C:\Users\dell\Desktop\Hotel_management\HMAPI\CommonAPI\WebApplication1\bin\WebGrease.dll
+C:\Users\dell\Desktop\Hotel_management\HMAPI\CommonAPI\WebApplication1\bin\Dapper.xml
+C:\Users\dell\Desktop\Hotel_management\HMAPI\CommonAPI\WebApplication1\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\dell\Desktop\Hotel_management\HMAPI\CommonAPI\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\dell\Desktop\Hotel_management\HMAPI\CommonAPI\WebApplication1\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\dell\Desktop\Hotel_management\HMAPI\CommonAPI\WebApplication1\bin\Newtonsoft.Json.xml
+C:\Users\dell\Desktop\Hotel_management\HMAPI\CommonAPI\WebApplication1\bin\Newtonsoft.Json.Bson.pdb
+C:\Users\dell\Desktop\Hotel_management\HMAPI\CommonAPI\WebApplication1\bin\Newtonsoft.Json.Bson.xml
+C:\Users\dell\Desktop\Hotel_management\HMAPI\CommonAPI\WebApplication1\bin\System.Buffers.xml
+C:\Users\dell\Desktop\Hotel_management\HMAPI\CommonAPI\WebApplication1\bin\System.Memory.xml
+C:\Users\dell\Desktop\Hotel_management\HMAPI\CommonAPI\WebApplication1\bin\System.Net.Http.Formatting.xml
+C:\Users\dell\Desktop\Hotel_management\HMAPI\CommonAPI\WebApplication1\bin\System.Numerics.Vectors.xml
+C:\Users\dell\Desktop\Hotel_management\HMAPI\CommonAPI\WebApplication1\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\dell\Desktop\Hotel_management\HMAPI\CommonAPI\WebApplication1\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\dell\Desktop\Hotel_management\HMAPI\CommonAPI\WebApplication1\bin\System.Web.Helpers.xml
+C:\Users\dell\Desktop\Hotel_management\HMAPI\CommonAPI\WebApplication1\bin\System.Web.Http.xml
+C:\Users\dell\Desktop\Hotel_management\HMAPI\CommonAPI\WebApplication1\bin\System.Web.Http.Cors.xml
+C:\Users\dell\Desktop\Hotel_management\HMAPI\CommonAPI\WebApplication1\bin\System.Web.Http.WebHost.xml
+C:\Users\dell\Desktop\Hotel_management\HMAPI\CommonAPI\WebApplication1\bin\System.Web.Mvc.xml
+C:\Users\dell\Desktop\Hotel_management\HMAPI\CommonAPI\WebApplication1\bin\System.Web.Razor.xml
+C:\Users\dell\Desktop\Hotel_management\HMAPI\CommonAPI\WebApplication1\bin\System.Web.WebPages.xml
+C:\Users\dell\Desktop\Hotel_management\HMAPI\CommonAPI\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+C:\Users\dell\Desktop\Hotel_management\HMAPI\CommonAPI\WebApplication1\bin\System.Web.WebPages.Razor.xml
+C:\Users\dell\Desktop\Hotel_management\HMAPI\CommonAPI\WebApplication1\bin\System.Web.Optimization.xml
+C:\Users\dell\Desktop\Hotel_management\HMAPI\CommonAPI\WebApplication1\bin\Antlr3.Runtime.pdb
+C:\Users\dell\Desktop\Hotel_management\HMAPI\CommonAPI\WebApplication1\bin\Microsoft.Owin.xml
+C:\Users\dell\Desktop\Hotel_management\HMAPI\CommonAPI\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\dell\Desktop\Hotel_management\HMAPI\CommonAPI\WebApplication1\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\dell\Desktop\Hotel_management\HMAPI\CommonAPI\WebApplication1\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\dell\Desktop\Hotel_management\HMAPI\CommonAPI\WebApplication1\bin\Microsoft.Owin.Security.xml
+C:\Users\dell\Desktop\Hotel_management\HMAPI\CommonAPI\WebApplication1\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\dell\Desktop\Hotel_management\HMAPI\CommonAPI\WebApplication1\bin\Microsoft.Owin.Security.Jwt.xml
+C:\Users\dell\Desktop\Hotel_management\HMAPI\CommonAPI\WebApplication1\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\dell\Desktop\Hotel_management\HMAPI\CommonAPI\WebApplication1\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\dell\Desktop\Hotel_management\HMAPI\CommonAPI\WebApplication1\bin\Microsoft.IdentityModel.Xml.xml
+C:\Users\dell\Desktop\Hotel_management\HMAPI\CommonAPI\WebApplication1\bin\Microsoft.IdentityModel.Tokens.Saml.xml
+C:\Users\dell\Desktop\Hotel_management\HMAPI\CommonAPI\WebApplication1\bin\Microsoft.IdentityModel.Protocols.xml
+C:\Users\dell\Desktop\Hotel_management\HMAPI\CommonAPI\WebApplication1\bin\Microsoft.IdentityModel.Protocols.WsFederation.xml
+C:\Users\dell\Desktop\Hotel_management\HMAPI\CommonAPI\WebApplication1\bin\Microsoft.Owin.Security.ActiveDirectory.xml
+C:\Users\dell\Desktop\Hotel_management\HMAPI\CommonAPI\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\dell\Desktop\Hotel_management\HMAPI\CommonAPI\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete

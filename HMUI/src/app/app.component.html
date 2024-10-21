@@ -1,0 +1,24 @@
+
+<!-- <router-outlet></router-outlet> -->
+<ng-container *ngIf="(location.path() != '/login' && _path != 'reset-password') && accessToken != null">
+  <div style="position: relative; top: 0; left: 0;" #idBodyTop></div>
+  
+    <div class="overlay-menu" data-toggle="collapse" data-target="#dashboardmenu" aria-controls="dashboardmenu"
+      aria-expanded="false" aria-label="Toggle navigation">
+    </div>
+
+    <app-headder></app-headder>
+    <!-- <app-sidebar></app-sidebar> -->
+    <!-- <div class="right-sidebar">
+      <app-header></app-header>
+      <router-outlet (activate)="onActivate($event, idBodyTop)"></router-outlet>
+    </div> -->
+
+</ng-container>
+
+<ng-container *ngIf="!((location.path() != '/login' && _path != 'reset-password') && accessToken != null)">
+
+  <router-outlet></router-outlet>
+</ng-container>
+
+<ngx-ui-loader></ngx-ui-loader>

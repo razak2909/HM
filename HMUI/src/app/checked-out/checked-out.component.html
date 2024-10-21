@@ -1,0 +1,60 @@
+<div class="header_white_card mt-4 mb-4">
+    <h1 align="center">Checked Out Details</h1>
+      <ul class="report_table_breadcrumb" style="justify-content: space-between;">
+          <li>
+              <div class="manage-buttons">
+                  <!-- <button class="edit-button edit-gen" type="submit"   (click)="onAddUserModal(onAddUserModal)">
+                      Add Guests
+                  </button> -->
+              </div>
+          </li>
+      </ul>
+      
+  </div>
+  
+  
+  
+  <table class="table table-striped">
+      <thead>
+          <tr>
+              <th>Sl.NO</th>
+              <th>Booking ID</th>
+              <th>Booking Date</th>
+              <th>GuestName</th>
+              <!-- <th>Contact Number</th> -->
+              <!-- <th>IdProofType</th> -->
+              <th>CheckIn Date</th>
+              <th>CheckOut Date</th>
+              <th>RoomNumber</th>
+              <th>RoomType</th>
+              <th>TotalStayCost</th>
+              <th>RoomPricePerDay</th>
+              <th>Guest Details</th>
+          </tr>
+      </thead>
+      <tbody>
+          <tr *ngFor="let ditem of DepartmentList; let i = index">
+              <td>{{ i+1 }}</td>
+              <td>{{ditem.Booking_ID}}</td>
+              <td>{{ditem.BookingDate | date : 'yyyy-MM-dd'}}</td>
+              <td>{{ditem.GuestName}}</td>
+              <!-- <td>{{ditem.ContactNumber}}</td>
+              <td>{{ditem.IdProofType}}</td>  -->
+              <td>{{ditem.CheckIn | date: 'yyyy-MM-dd'}}</td>
+              <td>{{ditem.CheckOut | date : 'yyyy-MM-dd'}}</td>
+              <td>{{ditem.RoomNumber}} </td>
+              <td>{{ditem.RoomType}}</td>
+              <td>{{(ditem.RoomPricePerDay * ditem.TotalDays).toFixed(2)}}</td>
+              <td>{{ditem.RoomPricePerDay}}</td> 
+              <td>
+                <i class="bi bi-eye btn btn-outline-secondary" [routerLinkActive]="['active']" [routerLink]="['/Viewdetails2',ditem.GuestId]">
+                  <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-eye" viewBox="0 0 16 16">
+                    <path d="M16 8s-3-5.5-8-5.5S0 8 0 8s3 5.5 8 5.5S16 8 16 8M1.173 8a13 13 0 0 1 1.66-2.043C4.12 4.668 5.88 3.5 8 3.5s3.879 1.168 5.168 2.457A13 13 0 0 1 14.828 8q-.086.13-.195.288c-.335.48-.83 1.12-1.465 1.755C11.879 11.332 10.119 12.5 8 12.5s-3.879-1.168-5.168-2.457A13 13 0 0 1 1.172 8z"/>
+                    <path d="M8 5.5a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5M4.5 8a3.5 3.5 0 1 1 7 0 3.5 3.5 0 0 1-7 0"/>
+                  </svg>
+                </i>
+              </td>
+                     
+          </tr>
+      </tbody>
+  </table>

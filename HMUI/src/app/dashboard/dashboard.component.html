@@ -1,0 +1,108 @@
+<div class="container">
+    <h1 class="d-flex justify-content-center" style="margin-top: 2%;">Hotel Booking</h1>
+    <div class="clock-container" style="margin-top: 15px; text-align: center;">
+        <!-- <h3>Current Date</h3> -->
+        <h2>{{ currentDate }}</h2>
+        <!-- <h3>Current Time</h3> -->
+        <h2>{{ currentTime }}</h2>
+    </div>
+</div>
+<h3>Dashboard</h3>
+<div class="dashboard_insight_boxes" style="margin-top: 15px;">
+    <div class="spacing" >
+        <!-- <a [routerLink]="['/department']" > -->
+        <div class="insight_box insight_dark_blue">
+            <span class="icon" style="display:inline-flex" >
+                <svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" fill="currentColor" class="bi bi-building-fill" viewBox="0 0 16 16">
+                    <path d="M3 0a1 1 0 0 0-1 1v14a1 1 0 0 0 1 1h3v-3.5a.5.5 0 0 1 .5-.5h3a.5.5 0 0 1 .5.5V16h3a1 1 0 0 0 1-1V1a1 1 0 0 0-1-1zm1 2.5a.5.5 0 0 1 .5-.5h1a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5h-1a.5.5 0 0 1-.5-.5zm3 0a.5.5 0 0 1 .5-.5h1a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5h-1a.5.5 0 0 1-.5-.5zm3.5-.5h1a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5h-1a.5.5 0 0 1-.5-.5v-1a.5.5 0 0 1 .5-.5M4 5.5a.5.5 0 0 1 .5-.5h1a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5h-1a.5.5 0 0 1-.5-.5zM7.5 5h1a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5h-1a.5.5 0 0 1-.5-.5v-1a.5.5 0 0 1 .5-.5m2.5.5a.5.5 0 0 1 .5-.5h1a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5h-1a.5.5 0 0 1-.5-.5zM4.5 8h1a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5h-1a.5.5 0 0 1-.5-.5v-1a.5.5 0 0 1 .5-.5m2.5.5a.5.5 0 0 1 .5-.5h1a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5h-1a.5.5 0 0 1-.5-.5zm3.5-.5h1a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5h-1a.5.5 0 0 1-.5-.5v-1a.5.5 0 0 1 .5-.5"/>
+                </svg>
+<h3>{{ alldata.totalBookings || 0 }}</h3>
+            </span>
+            <div class="description">
+                <!-- <h3> {{ allData?.TotalTrainings || 0 }} </h3> -->
+                <p>Total Bookings</p>
+            </div>
+        </div>
+    <!-- </a> -->
+    </div>
+    <div class="spacing" >
+       <!-- <a [routerLink]="['/user']"> -->
+        <div class="insight_box insight_dark_blue">
+            <span class="icon" style="display:inline-flex">
+                <svg xmlns="http://www.w3.org/2000/svg" width="26" height="25" fill="currentColor" class="bi bi-people-fill" viewBox="0 0 16 16">
+                    <path d="M7 14s-1 0-1-1 1-4 5-4 5 3 5 4-1 1-1 1zm4-6a3 3 0 1 0 0-6 3 3 0 0 0 0 6m-5.784 6A2.24 2.24 0 0 1 5 13c0-1.355.68-2.75 1.936-3.72A6.3 6.3 0 0 0 5 9c-4 0-5 3-5 4s1 1 1 1zM4.5 8a2.5 2.5 0 1 0 0-5 2.5 2.5 0 0 0 0 5"/>
+                </svg>
+                <h3>{{TotalEmployeesCount ||0}}</h3>
+            </span>
+            <div class="description">
+                <p>Employees</p>
+            </div>
+        </div>
+    <!-- </a> -->
+    </div>
+
+
+    <div class="spacing" style="display: inline-block;" *ngFor="let val of alldata.empcountineachdept">
+        <div class="insight_box color">
+            <span class="icon" style="display:inline-flex">
+                <svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" fill="currentColor" class="bi bi-building-fill" viewBox="0 0 16 16">
+                    <path d="M3 0a1 1 0 0 0-1 1v14a1 1 0 0 0 1 1h3v-3.5a.5.5 0 0 1 .5-.5h3a.5.5 0 0 1 .5.5V16h3a1 1 0 0 0 1-1V1a1 1 0 0 0-1-1zm1 2.5a.5.5 0 0 1 .5-.5h1a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5h-1a.5.5 0 0 1-.5-.5zm3 0a.5.5 0 0 1 .5-.5h1a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5h-1a.5.5 0 0 1-.5-.5zm3.5-.5h1a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5h-1a.5.5 0 0 1-.5-.5v-1a.5.5 0 0 1 .5-.5M4 5.5a.5.5 0 0 1 .5-.5h1a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5h-1a.5.5 0 0 1-.5-.5zM7.5 5h1a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5h-1a.5.5 0 0 1-.5-.5v-1a.5.5 0 0 1 .5-.5m2.5.5a.5.5 0 0 1 .5-.5h1a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5h-1a.5.5 0 0 1-.5-.5zM4.5 8h1a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5h-1a.5.5 0 0 1-.5-.5v-1a.5.5 0 0 1 .5-.5m2.5.5a.5.5 0 0 1 .5-.5h1a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5h-1a.5.5 0 0 1-.5-.5zm3.5-.5h1a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5h-1a.5.5 0 0 1-.5-.5v-1a.5.5 0 0 1 .5-.5"/>
+                </svg>
+             
+                <h3>{{val.No_Of_Employees}}</h3>
+            </span>
+            <div class="description">
+                <!-- <p>{{getDeptName(val.DeptId)}}</p> -->
+                <p>{{val.DeptName}}</p>
+            </div>
+        </div>
+    </div>
+    
+</div>
+
+
+
+<!-- <div class="header_white_card mt-4 mb-4">
+      <ul class="report_table_breadcrumb" style="justify-content: space-between;">
+          <li>
+              <div class="manage-buttons">
+                  <button (click)="export('Excel')" class="manage-button excel-button" type="submit"></button>
+                   <button (click)="export('Excel')" class="manage-button excel-button" type="submit">1</button> -->
+
+              <!-- </div>
+          </li>
+      </ul>
+      
+  </div> -->
+
+
+
+<!-- <table class="table table-striped">
+    <thead>
+      <tr>
+        <th scope="col">#</th>
+        <th scope="col">EmployeeId</th>
+        <th scope="col">EmployeeName</th>
+        <th scope="col">DeptId</th>
+        <th scope="col">Department</th>
+        <th scope="col">DateOfJoining</th>
+        <th scope="col">PhotoFileName</th>
+      </tr>
+    </thead>
+    <tbody >
+      <tr *ngFor="let val of alldata.DashBoardData; let i = index;">
+        <td>{{ i+1 }}</td>
+        <td>{{ val.EmpId }}</td>
+        <td>{{ val.EmpName }}</td>
+        <td>{{ val.DeptId }}</td>
+         <td>{{getDeptId(val.deptName)}}</td> -->
+        <!-- <td>{{ val.DeptName }}</td>
+        <td>{{ val.DateOfJoining }}</td>
+        <td> {{ val.PhotoFileName }}</td>
+      </tr>
+    </tbody>
+</table>  -->
+
+
+
+

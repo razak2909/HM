@@ -1,0 +1,490 @@
+<div class="header_white_card mt-4 mb-4">
+  <h1 align="center">Booked Details</h1>
+  <ul class="report_table_breadcrumb" style="justify-content: space-between">
+    <li>
+      <div class="manage-buttons">
+        <button
+          class="edit-button edit-gen"
+          type="submit"
+          (click)="onAddGuestModal(AddGuestModal)"
+        >
+          Add Guests
+        </button>
+      </div>
+    </li>
+  </ul>
+</div>
+
+<table class="table table-striped">
+  <thead>
+    <tr>
+      <th>Sl.NO</th>
+      <th>Booking ID</th>
+      <th>Guest ID</th>
+      <th>Booking Date</th>
+      <th>GuestName</th>
+      <!-- <th>Contact Number</th> -->
+      <!-- <th>IdProofType</th> -->
+      <th>RoomNumber</th>
+      <th>RoomType</th>
+      <!-- <th>TotalStayCost</th> -->
+      <th>RoomPricePerDay</th>
+      <th>Guest Details</th>
+      <th>Action</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let ditem of BookedList; let i = index">
+      <td>{{ i + 1 }}</td>
+      <td>{{ ditem.Booking_ID }}</td>
+      <td>{{ ditem.GuestId }}</td>
+      <td>{{ ditem.BookingDate | date : "yyyy-MM-dd" }}</td>
+      <td>{{ ditem.GuestName }}</td>
+      <!-- <td>{{ditem.ContactNumber}}</td> -->
+      <!-- <td>{{ditem.IdProofType}}</td> -->
+      <td>{{ ditem.RoomNumber }}</td>
+      <td>{{ ditem.RoomType }}</td>
+      <!-- <td>{{ditem.TotalStayCost}}</td> -->
+      <td>{{ ditem.RoomPricePerDay }}</td>
+      <!-- <td><span role="button" (click)="photomodel1(photoModal,ditem.PhotoFileName)">{{ditem.PhotoFileName}}</span></td>  -->
+      <td>
+        <i
+          class="bi bi-eye btn btn-outline-secondary"
+          [routerLinkActive]="['active']"
+          [routerLink]="['/Viewdetails', ditem.GuestId]"
+        >
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+            width="16"
+            height="16"
+            fill="currentColor"
+            class="bi bi-eye"
+            viewBox="0 0 16 16"
+          >
+            <path
+              d="M16 8s-3-5.5-8-5.5S0 8 0 8s3 5.5 8 5.5S16 8 16 8M1.173 8a13 13 0 0 1 1.66-2.043C4.12 4.668 5.88 3.5 8 3.5s3.879 1.168 5.168 2.457A13 13 0 0 1 14.828 8q-.086.13-.195.288c-.335.48-.83 1.12-1.465 1.755C11.879 11.332 10.119 12.5 8 12.5s-3.879-1.168-5.168-2.457A13 13 0 0 1 1.172 8z"
+            />
+            <path
+              d="M8 5.5a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5M4.5 8a3.5 3.5 0 1 1 7 0 3.5 3.5 0 0 1-7 0"
+            />
+          </svg>
+        </i>
+        <!-- <i class="bi bi-eye btn btn-outline-secondary" (click)="onViewGuestModal(ViewGuestDetailsModal,ditem.GuestId)">
+                  <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-eye" viewBox="0 0 16 16">
+                    <path d="M16 8s-3-5.5-8-5.5S0 8 0 8s3 5.5 8 5.5S16 8 16 8M1.173 8a13 13 0 0 1 1.66-2.043C4.12 4.668 5.88 3.5 8 3.5s3.879 1.168 5.168 2.457A13 13 0 0 1 14.828 8q-.086.13-.195.288c-.335.48-.83 1.12-1.465 1.755C11.879 11.332 10.119 12.5 8 12.5s-3.879-1.168-5.168-2.457A13 13 0 0 1 1.172 8z"/>
+                    <path d="M8 5.5a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5M4.5 8a3.5 3.5 0 1 1 7 0 3.5 3.5 0 0 1-7 0"/>
+                  </svg>
+                </i> -->
+      </td>
+
+      <td>
+        <button
+          type="button"
+          class="btn btn-primary active btn-sm"
+          data-bs-toggle="button"
+          aria-pressed="true"
+          (click)="onCheckedIn(ditem.RoomId, ditem.Booking_ID)"
+        >
+          Check In
+        </button>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<ng-template #AddGuestModal>
+  <div class="transaction_modal" style="width: 100%">
+    <div class="modal-header">
+      <h1 class="modal-title fs-5" id="AddGuestModal">Guest Details</h1>
+      <button
+        type="button"
+        class="btn-close"
+        (click)="modalService.hide()"
+        aria-label="Close"
+      >
+        Close
+      </button>
+    </div>
+
+    <hr style="margin-top: 2px; margin-bottom: 2px" />
+
+    <div class="modal-body">
+      <div class="refund_complete_form">
+        <form
+          [formGroup]="createUserForm"
+          (ngSubmit)="onAddGuestModel()"
+          style="width: 100%"
+        >
+          <div class="row">
+      
+
+            <div class="col-lg-6">
+              <label>Guest Name</label>
+              <div class="form-group" style="width: 100%">
+                <input
+                  matInput
+                  id="GuestName"
+                  formControlName="GuestName"
+                  placeholder="Enter Guest Name"
+                  class="form-control"
+                />
+                <div class="form-err">
+                  <span
+                    *ngIf="createUserForm.get('GuestName')?.hasError('pattern')"
+                  >
+                    <strong>Guest Name</strong> is required
+                  </span>
+                  <span
+                    *ngIf="createUserForm.get('GuestName')?.hasError('pattern')"
+                  >
+                    <strong>Invalid</strong> Guest Name. Only alphabets and
+                    spaces are allowed.
+                  </span>
+                </div>
+              </div>
+            </div>
+
+            <div class="col-lg-6">
+              <label>Contact Number</label>
+              <div class="form-group" style="width: 100%">
+                <input
+                  matInput
+                  id="ContactNumber"
+                  formControlName="ContactNumber"
+                  placeholder="Enter Contact Number"
+                  class="form-control"
+                />
+                <div class="form-err">
+                  <span
+                    *ngIf="
+                      createUserForm.get('ContactNumber')?.hasError('pattern')
+                    "
+                  >
+                    <strong>Invalid</strong> Contact Number
+                  </span>
+                </div>
+              </div>
+            </div>
+
+            <div class="col-lg-6">
+              <label>Email</label>
+              <div class="form-group" style="width: 100%">
+                <input
+                  matInput
+                  id="Email"
+                  formControlName="Email"
+                  placeholder="Enter Email"
+                  class="form-control"
+                />
+                <div class="form-err">
+                  <span *ngIf="createUserForm.get('Email')?.hasError('pattern')">
+                    <strong>Required</strong> Email
+                  </span>
+                  <span *ngIf="createUserForm.get('Email')?.hasError('email')">
+                    <strong>Invalid</strong> Email Format
+                  </span>
+                </div>
+              </div>
+            </div>
+            
+
+            <div class="col-lg-6">
+              <label>ID Proof Type</label>
+              <div class="form-group" style="width: 100%">
+                <input
+                  matInput
+                  id="IdProofType"
+                  formControlName="IdProofType"
+                  placeholder="Enter ID Proof Type"
+                  class="form-control"
+                />
+                <div class="form-err">
+                  <span
+                    *ngIf="createUserForm.get('IdProofType')?.hasError('pattern')"
+                  >
+                    <strong>ID Proof Type</strong> is required
+                  </span>
+                </div>
+              </div>
+            </div>
+
+            <div class="col-lg-6">
+              <label>ID Proof Number</label>
+              <div class="form-group" style="width: 100%">
+                <input
+                  matInput
+                  id="IdProofNumber"
+                  formControlName="IdProofNumber"
+                  placeholder="Enter ID Proof Number"
+                  class="form-control"
+                />
+                <div class="form-err">
+                  <span
+                    *ngIf="createUserForm.get('IdProofNumber')?.hasError('pattern')"
+                  >
+                    <strong>ID Proof Number</strong> is required
+                  </span>
+                </div>
+              </div>
+            </div>
+
+           
+
+            <div class="col-lg-4" >
+              <label>Room Type</label>
+              <div class="form-group">
+                <mat-select
+                  formControlName="RoomType"
+                  id="RoomType"
+                  class="form-control"
+                  (selectionChange)="onGetAllCheckOutRoomsNumber($event)"
+                  placeholder="Select Room Type"
+                  (keydown)="$event.stopPropagation()"
+                >
+                  <mat-option
+                    *ngFor="let item of filteredRoomtypes"
+                    (keydown)="$event.stopPropagation()"
+                    [value]="item.RoomTypeId"
+                  >
+                    {{ item.RoomType }}
+                  </mat-option>
+                </mat-select>
+              </div>
+            </div>
+
+            <div class="col-lg-4" >
+              <label>Room Number</label>
+              <div class="form-group">
+                <mat-select
+                  formControlName="RoomId"
+                  id="RoomId"
+                  class="form-control"
+                  placeholder="Select Room Number"
+                  (keydown)="$event.stopPropagation()"
+                >
+                  <mat-option
+                    *ngFor="let item of filteredRooms"
+                    (keydown)="$event.stopPropagation()"
+                    [value]="item.RoomId"
+                  >
+                    {{ item.RoomNumber }}
+                  </mat-option>
+                </mat-select>
+              </div>
+            </div>
+
+            <form [formGroup]="createUserForm">
+              <div class="col-lg-6">
+                <label>Total Days</label>
+                <div class="form-group" style="width: 100%">
+                  <input
+                    matInput
+                    id="TotalDays"
+                    formControlName="TotalDays"
+                    placeholder="Enter Total Days"
+                    class="form-control"
+                  />
+                  <div class="form-err">
+                    <span *ngIf="createUserForm.get('TotalDays')?.hasError('required') && createUserForm.get('TotalDays')?.touched">
+                      <strong>Required</strong> Total Days
+                    </span>
+                    <span *ngIf="createUserForm.get('TotalDays')?.hasError('pattern') && createUserForm.get('TotalDays')?.touched">
+                      <strong>Invalid</strong> Total Days Format
+                    </span>
+                  </div>
+                </div>
+              </div>
+
+              <div class="col-lg-6">
+                <label>Total Guests</label>
+                <div class="form-group" style="width: 100%">
+                  <input
+                    matInput
+                    id="NumberOfGuests"
+                    formControlName="NumberOfGuests"
+                    placeholder="Enter Total Guests"
+                    class="form-control"
+                  />
+                  <div class="form-err">
+                    <span *ngIf="createUserForm.get('NumberOfGuests')?.hasError('required') && createUserForm.get('TotalDays')?.touched">
+                      <strong>Required</strong> Total Days
+                    </span>
+                    <span *ngIf="createUserForm.get('NumberOfGuests')?.hasError('pattern') && createUserForm.get('TotalDays')?.touched">
+                      <strong>Invalid</strong> Total Days Format
+                    </span>
+                  </div>
+                </div>
+              </div>
+            </form>
+            
+          </div>
+
+          <div class="file-upload">
+            <input
+              type="file"
+              #PhotoFileInput
+              id="IDProofPhoto"
+              FormControlName="IDProofPhoto"
+              (change)="onPhotoFileUpload($event)"
+              style="display: none"
+            />
+            <button
+              type="button"
+              id="uploadButton"
+              class="btn btn-primary upload-resume"
+              style="width: 150px"
+              (click)="triggerPhotoFileInput()"
+            >
+              Upload ID Proof
+            </button>
+          </div>
+
+          
+          <div *ngIf="selectedPhotoFile" class="file-item">
+            <span>
+              <a [href]="selectedPhotoFileUrl" target="_blank">
+                {{
+                  selectedPhotoFileName
+                    ? selectedPhotoFileName
+                    : selectedPhotoFile
+                    ? selectedPhotoFile
+                    : ""
+                }}
+              </a>
+            </span>
+            <button
+              class="btn btn-sm btn-danger"
+              (click)="deletePhotoFile('IDProofPhoto')"
+            >
+              Remove
+            </button>
+            &nbsp;
+            <span
+              role="button"
+              class="btn btn-sm btn-info"
+              (click)="photomodel(photoModal)"
+            >
+              show
+            </span>
+          </div>
+
+          <div class="row" style="margin-bottom: -10px">
+            <div class="col-lg">
+              <hr style="margin-top: 5px; margin-bottom: 5px" />
+              <div class="button-holder" style="float: right">
+                <button
+                  type="button"
+                  (click)="modalService.hide()"
+                  class="btn btn-danger"
+                  style="margin: 5px"
+                >
+                  Cancel
+                </button>
+                <button
+                  type="submit"
+                  class="btn btn-success"
+                  style="margin: 5px"
+                >
+                  Save
+                </button>
+              </div>
+            </div>
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+</ng-template>
+
+<ng-template #DeleteAlertModal>
+  <div
+    class="alrt-container alrt-center alrt-backdrop-show"
+    style="overflow: hidden"
+  >
+    <div
+      aria-labelledby="alrt-title"
+      aria-describedby="alrt-content"
+      class="alrt-popup alrt-modal alrt-icon-warning alrt-show"
+      ole="dialog"
+      aria-live="assertive"
+      aria-modal="true"
+      style="display: flex"
+    >
+      <div class="alrt-header">
+        <div
+          class="alrt-icon alrt-warning alrt-icon-show"
+          style="display: flex"
+        >
+          <div class="alrt-icon-content">!</div>
+        </div>
+        <h2 class="alrt-title" id="alrt-title" style="display: flex">
+          Are you sure?
+        </h2>
+      </div>
+      <div class="alrt-content">
+        <div
+          id="alrt-content"
+          class="alrt-html-container"
+          style="display: block"
+        >
+          You will not be able to recover this data
+        </div>
+        <input class="alrt-input" style="display: none" />
+        <div class="alrt-validation-message" id="alrt-validation-message"></div>
+      </div>
+      <div class="alrt-actions">
+        <button
+          type="button"
+          class="alrt-confirm alrt-styled"
+          aria-label=""
+          (click)="onDeleteDept()"
+          style="
+            display: inline-block;
+            background-color: rgb(184, 26, 52);
+            border-left-color: rgb(184, 44, 26);
+            border-right-color: rgb(184, 26, 26);
+          "
+        >
+          Yes, delete it!
+        </button>
+        <button
+          type="button"
+          class="alrt-cancel alrt-styled"
+          (click)="modalService.hide()"
+          aria-label=""
+          style="display: inline-block"
+        >
+          Cancel
+        </button>
+      </div>
+      <div class="alrt-footer" style="display: none"></div>
+      <div class="alrt-timer-progress-bar-container">
+        <div class="alrt-timer-progress-bar" style="display: none"></div>
+      </div>
+    </div>
+  </div>
+</ng-template>
+
+
+
+<ng-template #photoModal>
+  <div class="transaction_modal" style="width: 100%">
+    <div class="modal-header">
+      <h1 class="modal-title fs-5" id="AddUserModal">ID Proof Type</h1>
+      <button
+        type="button"
+        class="btn-close"
+        (click)="modalService.hide()"
+        aria-label="Close"
+      >
+        Close
+      </button>
+    </div>
+
+    <hr style="margin-top: 2px; margin-bottom: 2px" />
+
+    <div class="modal-body">
+      <img src="{{ selectedPhotoFileUrl }}" alt="" />
+    </div>
+  </div>
+</ng-template>

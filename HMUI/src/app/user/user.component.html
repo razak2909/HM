@@ -1,0 +1,245 @@
+<div class="header_white_card">
+    <ul class="report_table_breadcrumb" style="justify-content: space-between;">
+        <li><a href="javascript:void(0)">USER</a></li>
+        <li>
+            <div class="manage-buttons">
+                <button class="edit-button edit-gen" type="submit" (click)="onAddUserModal(AddUserModal)">
+                    Add User
+                </button>
+                
+            </div>
+        </li>
+    </ul>
+</div>
+
+<div class="white_card_master">
+
+    <div class="default_table_cover" style="padding: 10px;">
+        <table id="UserTable" datatable [dtOptions]="dtOptions" [dtTrigger]="dtTrigger" 
+            class="default_table table_align_left table_wrap_td adjust_custom_width" style="padding-top: 10px;">
+            <thead>
+                <tr>
+                    <th style="width: 10%;"> Sl.No.</th>
+                    <th style="width: 10%;">User Name</th>
+                    <th style="width: 10%;">RoleName</th>
+                    <th style="width: 10%;">Email</th>
+                    <th style="width: 10%;">CreatedBy</th>
+                    <th style="width: 10%;" class="action_td">Action</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr *ngFor="let item of allUser; let i=index;" >
+                    <td> {{ i + 1 }} </td>
+                    <td> {{ item?.UserId ? item?.UserId : '---' }} </td>
+                    <td>{{item?.RoleName ? item?.RoleName : '---' }}</td>
+                    <td> {{ item?.EmailId ? item?.EmailId : '---' }} </td>
+                    <td> {{ item?.CreatedBy ? item?.CreatedBy : '---' }} </td>
+                    <td>
+                        <div class="action_buttons">
+                                
+                            <a class="action_view_link butn edit" role="button" (click)="onEditUser(AddUserModal, item)">
+                                EDIT
+                            </a>
+                            <a class="action_view_link butn delete" (click)="onDeleteAlert(DeleteAlertModal, item?.UserId)" role="button">
+                                DELETE
+                            </a>
+                        </div>
+                    </td>
+                </tr>
+
+            </tbody>
+        </table>
+    </div>
+</div>
+
+<ng-template #DeleteAlertModal>
+    <div class="alrt-container alrt-center alrt-backdrop-show" style="overflow: hidden;">
+        <div aria-labelledby="alrt-title" aria-describedby="alrt-content"
+            class="alrt-popup alrt-modal alrt-icon-warning alrt-show" ole="dialog" aria-live="assertive"
+            aria-modal="true" style="display: flex;">
+            <div class="alrt-header">
+                <div class="alrt-icon alrt-warning alrt-icon-show" style="display: flex;">
+                    <div class="alrt-icon-content">!</div>
+                </div>
+                <h2 class="alrt-title" id="alrt-title" style="display: flex;">Are you sure?</h2>
+            </div>
+            <div class="alrt-content">
+                <div id="alrt-content" class="alrt-html-container" style="display: block;">
+                    You will not be able to recover this data
+                </div>
+                <input class="alrt-input" style="display: none;">
+                <div class="alrt-validation-message" id="alrt-validation-message"></div>
+            </div>
+            <div class="alrt-actions">
+                <button type="button" class="alrt-confirm alrt-styled" aria-label="" (click)="onDeleteUser()"
+                    style="display: inline-block; background-color: rgb(184, 26, 52); border-left-color: rgb(184, 44, 26); border-right-color: rgb(184, 26, 26);">
+                    Yes, delete it!
+                </button>
+                <button type="button" class="alrt-cancel alrt-styled" (click)="modalService.hide()" aria-label=""
+                    style="display: inline-block;">
+                    Cancel
+                </button>
+            </div>
+            <div class="alrt-footer" style="display: none;"></div>
+            <div class="alrt-timer-progress-bar-container">
+                <div class="alrt-timer-progress-bar" style="display: none;">
+                </div>
+            </div>
+        </div>
+    </div>
+</ng-template>
+
+<ng-template #AddUserModal>
+    <div class="transaction_modal" style="width: 100%;">
+        <div class="modal-header">
+            <h1 class="modal-title fs-5" id="AddUserModal">USER</h1>
+            <button type="button" class="btn-close" (click)="modalService.hide()" aria-label="Close">Close</button>
+        </div>
+
+        <hr style="margin-top: 2px; margin-bottom: 2px;">
+
+        <div class="modal-body">
+            <div class="refund_complete_form">
+                <form [formGroup]="createUserForm" (ngSubmit)="onAddUser()" style="width: 100%;">
+
+                    <div class="row">
+                        <div [class]=" !formEdit ? 'col-lg-6' : 'col-lg-12'">
+                            <label>UserName</label>
+                            <div class="form-group">
+                                <input matInput id="Name" formControlName="UserId" placeholder="UserName"
+                                    class="form-control">
+                                <div class="form-err">
+                                    <span *ngIf="createUserForm.get('UserId')?.hasError('pattern')">
+                                        <strong>Invalid</strong> Name
+                                    </span>
+                                    <span
+                                        *ngIf="createUserForm.get('UserId')?.hasError('required') && (createUserForm.get('UserId')?.dirty || createUserForm.get('UserId')?.touched)">
+                                        Name <strong>is required</strong>
+                                    </span>
+                                </div>
+                            </div>
+                        </div>
+
+                      
+
+                        <div class="col-lg-6" *ngIf="!formEdit">
+                            <label>Password</label>
+                            <div class="form-group" style="width: 100%; position: relative;">
+                                <input matInput id="Password" [type]="!isShowPass? 'password' : 'text'"
+                                    formControlName="Password" placeholder="Enter Password" class="form-control"
+                                    autocomplete="off" minlength="3" maxlength="12" required>
+
+                                <button (click)="isShowPass = !isShowPass" type="button" class="btn md-view-btn"
+                                    style="cursor: pointer; position: absolute; right: 0px; top: 0%;">
+                                    <i class="fas fa-eye" [ngStyle]="{'color': !isShowPass? '#aaaaaa': '#5a6aaa'}"></i>
+                                </button>
+
+                                <div class="form-err">
+                                    <span *ngIf="createUserForm.get('Password')?.hasError('pattern')">
+                                        Ensure string has Atleast 1 uppercase, 1 lowercase, 1 special case
+                                        letter, 1 digits & has length more than 8.
+                                    </span>
+                                    <span
+                                        *ngIf="createUserForm.get('Password')?.hasError('required') && (createUserForm.get('Password')?.dirty || createUserForm.get('Password')?.touched)">
+                                        Password <strong>is required</strong>
+                                    </span>
+                                </div>
+                            </div>
+                        </div>
+
+                        
+
+                        <div class="col-lg-6">
+                            <label>Email</label>
+                            <div class="form-group" style="width: 100%;">
+                                <input matInput id="EmailId" formControlName="EmailId" placeholder="EmailId"
+                                    class="form-control">
+                                <div class="form-err">
+                                    <span *ngIf="createUserForm.get('EmailId').hasError('pattern')">
+                                        <strong>Invalid</strong> EmailId
+                                    </span>
+                                </div>
+                            </div>
+                        </div>
+
+
+
+
+                        <div class="col-lg-4">
+                            <label>Role Name</label>
+                              <div class="form-group"  style="width: 100%;">
+                                  <mat-select formControlName="RoleName" id="RoleName" class="form-control"
+                                      placeholder="Select Role Type" (keydown)="$event.stopPropagation()">
+                                      <mat-option *ngFor="let item of filteredUserRole"
+                                          (keydown)="$event.stopPropagation()" [value]="item.RoleName">
+                                          {{item.RoleName}}
+                                      </mat-option>
+                                  </mat-select>
+                              </div>
+                          </div>
+
+
+                          <div class="col-lg-6">
+                            <label>Age</label>
+                            <div class="form-group" style="width: 100%;">
+                                <input matInput id="Age" formControlName="Age" placeholder="Enter Your Age"
+                                    class="form-control">
+                                <div class="form-err">
+                                    <!-- <span *ngIf="createUserForm.get('Age').hasError('pattern')">
+                                        <strong>Invalid</strong> 
+                                    </span> -->
+                                </div>
+                            </div>
+                        </div>
+
+                        
+
+                        <div class="col-lg-6">
+                            <label>Mobile Number</label>
+                            <div class="form-group" style="width: 100%;">
+                              <input matInput id="MobileNo" formControlName="MobileNo" placeholder="Enter Mobile Number" class="form-control">
+                              <div class="form-err">
+                                <span *ngIf="createUserForm.get('MobileNo')?.hasError('pattern')">
+                                  <strong>Invalid</strong> Mobile Number
+                                </span>
+                              </div>
+                            </div>
+                          </div>
+                        
+
+                          <div class="col-lg-6">
+                            <label>Permanent Address</label>
+                            <div class="form-group" style="width: 100%;">
+                              <textarea matInput id="PermanentAddress" formControlName="PermanentAddress" placeholder="Enter Permanent Address"
+                                class="form-control" rows="3"></textarea>
+                            </div>
+                          </div>
+
+                          <div class="col-lg-6">
+                            <label>Present Address</label>
+                            <div class="form-group" style="width: 100%;">
+                              <textarea matInput id="PresentAddress" formControlName="PresentAddress" placeholder="Enter Present Address"
+                                class="form-control" rows="3"></textarea>
+                            </div>
+                        </div>
+
+                        
+                    </div>
+
+                    <div class="row" style="margin-bottom: -10px;">
+                        <div class="col-lg">
+                            <hr style="margin-top: 5px; margin-bottom: 5px;">
+                            <div class="button-holder" style="float: right;">
+                                <button type="button" (click)="modalService.hide()" class="btn btn-danger"
+                                    style="margin: 5px;">Cancel</button>
+                                <button type="submit" class="btn btn-success" style="margin: 5px;"
+                                    [disabled]="!createUserForm.valid">Save</button>
+                            </div>
+                        </div>
+                    </div>
+
+                </form>
+            </div>
+        </div>
+    </div>
+</ng-template> 

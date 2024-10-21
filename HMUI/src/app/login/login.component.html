@@ -1,0 +1,172 @@
+<div class="landing_sec">
+    <div class="landing_detail">
+
+        <!-- <div class="login_left_description">
+            <span class="kea_cit_challan_label">PETC</span>
+            <h4>Training Institutes Feedback System</h4>
+            <p>PRE-EXAMINATION TRAINING CENTRE</p>
+        </div> -->
+
+
+    </div>
+    <div class="landing_form_detail">
+        <!-- <div class="for_staff_only_button">
+            <a class="staff_only_button" href="javascript:void(0)">Version 1.0</a>
+        </div> -->
+        <div class="flex-grow-1 d-flex align-items-center justify-content-center flex-wrap flex-column">
+            <div class="w-100">
+
+                <!-- <div class="logo" style="text-align: center; margin: 5px;">
+                    <span class="icon">
+                        <img src="./assets/images/logo.svg" alt="fan_icon">
+                    </span>
+                    <h4 style="color: #FF5D80; font-size: 16px; margin: 5px 0;">
+                        Welcome to FMS
+                    </h4>
+                </div> -->
+
+                <div class="heading">
+                    <!-- <h2>
+                        Welcome
+                        <span class="icon">
+                            <img src="./assets/images/fan_icon.svg" alt="fan_icon">
+                        </span>
+                    </h2> -->
+                    <h3>Login to Account</h3>
+                </div>
+
+                <form [formGroup]="loginForm" (ngSubmit)="onLogin()">
+                    <div class="row align-items-end">
+                        <div class="col-12 mb-3">
+                            <div class="form-group">
+                                <label class="form-label">User Name</label>
+                                <input type="text" class="form-control" placeholder="UserName"
+                                    formControlName="UserName">
+                                <div class="form-err">
+                                    <span *ngIf="loginForm.get('UserName')?.hasError('pattern')">
+                                        <strong>Invalid</strong> User Name
+                                    </span>
+                                    <span
+                                        *ngIf="loginForm.get('UserName')?.hasError('required') && (loginForm.get('UserName')?.dirty || loginForm.get('UserName')?.touched)">
+                                        User Name <strong>is required</strong>
+                                    </span>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                    <div class="row">
+                        <div class="col-12 mb-3">
+                            <div class="form-group">
+                                <label class="form-label">Password</label>
+
+                                <div style="width: 100%; position: relative;">
+                                    <i class="fas fa-eye" id="togglePassword"
+                                        style="cursor: pointer; position: absolute; right: 15px; top: 30%;"></i>
+
+                                    <input type="password" class="form-control" placeholder="Enter Password" matInput
+                                        formControlName="Password" autocomplete="off" (paste)="onPaste($event)"
+                                        minlength="3" maxlength="12" id="id_password" required>
+                                </div>
+                                <div class="form-err">
+                                    <span *ngIf="loginForm.get('Password')?.hasError('pattern')">
+                                        <strong>Invalid</strong> Password
+                                    </span>
+                                    <span
+                                        *ngIf="loginForm.get('Password')?.hasError('required') && (loginForm.get('Password')?.dirty || loginForm.get('Password')?.touched)">
+                                        Password <strong>is required</strong>
+                                    </span>
+                                </div>
+
+                                <!-- <span class="forgot_password_field">
+                                    <a class="forgot_password_link" href="javascript:void(0)" (click)="OpenModel()">
+                                        Forgot Password ?
+                                    </a>
+                                </span> -->
+                            </div>
+                        </div>
+                    </div>
+                    <button type="submit" class="button" [disabled]="!loginForm.valid">
+                        Verify & Proceed
+                        <span clas="icon">
+                            <img src="./assets/images/right_white_filled_icon.svg" alt="right_white_filled_icon">
+                        </span>
+                    </button>
+                </form>
+            </div>
+        </div>
+
+    </div>
+</div>
+
+
+<!-- <div class="footer_content">
+    <p>Copyright 2023. All Rights Reserved</p>
+</div> -->
+
+
+
+<div class="modal fade show" *ngIf="IsPopUp" id="exampleModal" tabindex="-1" role="dialog"
+    aria-labelledby="exampleModalLabel" aria-hidden="true" style="display: block;background: #80808099;">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <form [formGroup]="ForgotForm" (ngSubmit)="ForgotSubmit()">
+                <div class="modal-header">
+                    <h3 class="modal-title" id="exampleModalLabel">Forgot Password</h3>
+                    <button type="button" class="close" aria-label="Close" (click)="closeModel()">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <input type="text" placeholder="UserName" class="form-control" formControlName="UserId" />
+                    <div class="form-err">
+                        <span *ngIf="ForgotForm.get('UserId')?.hasError('pattern')">
+                            <strong>Invalid</strong> User Name
+                        </span>
+                        <span
+                            *ngIf="ForgotForm.get('UserId')?.hasError('required') && (ForgotForm.get('UserId')?.dirty || ForgotForm.get('UserId')?.touched)">
+                            User Name <strong>is required</strong>
+                        </span>
+                    </div>
+                    <input type="email" placeholder="Email" class="form-control mt-3" formControlName="EmailId" />
+                    <div class="form-err">
+                        <span *ngIf="ForgotForm.get('EmailId')?.hasError('pattern')">
+                            <strong>Invalid</strong> Email
+                        </span>
+                        <span
+                            *ngIf="ForgotForm.get('EmailId')?.hasError('required') && (ForgotForm.get('EmailId')?.dirty || ForgotForm.get('EmailId')?.touched)">
+                            Email <strong>is required</strong>
+                        </span>
+                    </div>
+                    <input type="password" placeholder="Password" class="form-control mt-3" formControlName="Password">
+                    <div class="form-err">
+                        <span *ngIf="ForgotForm.get('Password')?.hasError('required') && (ForgotForm.get('Password')?.dirty || ForgotForm.get('Password')?.touched)">
+                            Password<Strong>is required</Strong>
+                        </span>
+                    </div>
+
+                    <input type="password" placeholder="ConfirmPassword" class="form-control mt-3" formControlName="ConfirmPassword"> 
+                    <div class="form-err">
+                        <span *ngIf="ForgotForm.get('ConfirmPassword')?.hasError('required') && (ForgotForm.get('ConfirmPassword')?.dirty || ForgotForm.get('ConfirmPassword')?.touched) ">
+                            Password<Strong>is required</Strong>
+                        </span>
+
+                        <span
+                            *ngIf="ForgotForm.get('ConfirmPassword')?.hasError('required') && (ForgotForm.get('ConfirmPassword')?.dirty || ForgotForm.get('ConfirmPassword')?.touched)">
+                            Confirm password is <strong>is required</strong>
+                        </span>
+                        <span *ngIf="(ForgotForm.get('ConfirmPassword')?.dirty || ForgotForm.get('ConfirmPassword')?.touched) && (ForgotForm.get('ConfirmPassword')?.value != ForgotForm.get('Password')?.value)">
+                            Passwords are<strong>Not Matching</strong>!!
+                        </span>
+
+                    </div> 
+                  
+                </div>
+                <div class="modal-footer">
+                    <button type="submit" class="btn btn-primary">Submit</button>
+                    <button type="button" class="btn btn-secondary" (click)="closeModel()">Close</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div> 

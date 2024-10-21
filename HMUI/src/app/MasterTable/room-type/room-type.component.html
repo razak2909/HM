@@ -1,0 +1,113 @@
+<div class="header_white_card mt-4 mb-4">
+  <h1 align="center">Room Types</h1>
+  <ul class="report_table_breadcrumb" style="justify-content: space-between;">
+    <li>
+      <div class="manage-buttons">
+        <button class="edit-button edit-gen" type="submit" (click)="onAddRoomType(AddRoomTypeModal)">
+          Add Room Type
+        </button>
+        <!-- <button (click)="export('Excel')" class="manage-button excel-button" type="submit"></button> -->
+      </div>
+    </li>
+  </ul>
+</div>
+
+<table class="table table-striped">
+  <thead>
+    <tr>
+      <th>Sl.NO</th>
+      <th>Room Type ID</th>
+      <th>Room Type Name</th>
+      <th>Price</th>
+      <th>Action</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let item of roomTypeList; let i = index">
+      <td>{{ i + 1 }}</td>
+      <td>{{ item.RoomTypeId }}</td>
+      <td>{{ item.RoomType }}</td>
+      <td>{{ item.Price }}</td>
+      <!-- <td>
+        <button type="button" class="btn btn-primary btn-sm"  (click)="onEditRoomType(AddRoomTypeModal, item)">Edit</button>
+        <button type="button" class="btn btn-danger btn-sm" (click)="onDeleteRoomType(deleteTemplate, item)">Delete</button>
+      </td> -->
+      <td><button type="button" class="btn btn-primary"style="margin-left: -50px;" data-bs-toggle="button" aria-pressed="true" (click)="onEditRoomType(AddRoomTypeModal, item)">Edit</button></td>
+      <td><button type="button" class="btn btn-secondary" style="margin-left: -110px;" data-bs-toggle="button" aria-pressed="true" (click)="onDeleteRoomType(deleteTemplate, item)" >Delete </button></td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- Add/Edit Room Type Modal -->
+<!-- Add/Edit Room Type Modal -->
+<ng-template #AddRoomTypeModal>
+  <div class="transaction_modal" style="width: 100%;">
+    <div class="modal-header">
+      <h1 class="modal-title fs-5" id="AddRoomTypeModal">Room Type Details</h1>
+      <button type="button" class="btn-close" (click)="modalService.hide()" aria-label="Close">Close</button>
+    </div>
+
+    <hr style="margin-top: 2px; margin-bottom: 2px;">
+
+    <div class="modal-body">
+      <div class="refund_complete_form">
+        <form [formGroup]="createRoomTypeForm" (ngSubmit)="onAddRoomTypeModel()" style="width: 100%;">
+          <div class="row">
+            <div class="col-lg-6">
+              <label>Room Type Name</label>
+              <div class="form-group">
+                <input formControlName="RoomType" placeholder="Room Type Name" class="form-control mb-4">
+              </div>
+            </div>
+            <div class="col-lg-6">
+              <label>Price</label> <!-- Changed label -->
+              <div class="form-group">
+                <input formControlName="Price" placeholder="Price" type="number" class="form-control mb-4"> <!-- Updated input -->
+              </div>
+            </div>
+          </div>
+
+          <div class="row" style="margin-bottom: -10px;">
+            <div class="col-lg">
+              <hr style="margin-top: 5px; margin-bottom: 5px;">
+              <div class="button-holder" style="float: right;">
+                <button type="button" (click)="modalService.hide()" class="btn btn-danger" style="margin: 5px;">Cancel</button>
+                <button type="submit" class="btn btn-success" style="margin: 5px;">Save</button>
+              </div>
+            </div>
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+</ng-template>
+
+
+<!-- Delete Room Type Modal -->
+<ng-template #deleteTemplate>
+  <div class="alrt-container alrt-center alrt-backdrop-show" style="overflow: hidden;">
+    <div aria-labelledby="alrt-title" aria-describedby="alrt-content" class="alrt-popup alrt-modal alrt-icon-warning alrt-show" role="dialog" aria-live="assertive" aria-modal="true" style="display: flex;">
+      <div class="alrt-header">
+        <div class="alrt-icon alrt-warning alrt-icon-show" style="display: flex;">
+          <div class="alrt-icon-content">!</div>
+        </div>
+        <h2 class="alrt-title" id="alrt-title" style="display: flex;">Are you sure?</h2>
+      </div>
+      <div class="alrt-content">
+        <div id="alrt-content" class="alrt-html-container" style="display: block;">
+          You will not be able to recover this data
+        </div>
+        <div class="alrt-actions">
+          <button type="button" class="alrt-confirm alrt-styled" (click)="confirmDelete()"
+            style="background-color: rgb(184, 26, 52); border-left-color: rgb(184, 44, 26); border-right-color: rgb(184, 26, 26);">
+            Yes, delete it!
+          </button>
+          <button type="button" class="alrt-cancel alrt-styled" (click)="modalService.hide()" aria-label=""
+            style="display: inline-block;">
+            Cancel
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+</ng-template>
